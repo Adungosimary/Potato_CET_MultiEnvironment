@@ -1,0 +1,265 @@
+plot,geno,entry,row,column,rep,npe,growth_speed,plant_height,plant_uniformity,plant_vigor,flowering,flowering_date,flower_colour,overall_impression,stem_number,tuber_appearance,skin_colour,tuber_size,tuber_uniformity,flesh_colour,late_blight_60_days,late_blight_90_days,notes,wilted,selected_clone,location,population,trial
+KE25NJO-LBHT-IT01-00001,CIP316353.035,39,1,1,1,10,5.0,1.0,7.0,5.0,7.0,2025-07-07, Light purple,6.0,7,7,Mix-Colour,9,7,yellow,0.0,,erect plants,,1.0,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00002,Unica,14,2,1,1,10,5.0,3.0,7.0,5.0,0.0,,,7.0,5,7,Red,7,7,yellow,0.0,,,,1.0,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00003,CIP316361.078,78,3,1,1,10,5.0,2.0,7.0,7.0,5.0,2025-07-01,White ,8.0,5,9,Yellow,9,5,light yellow,0.0,,"uniform, high vigor",,1.0,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00004,CIP316349.134,29,4,1,1,8,5.0,2.0,5.0,3.0,0.0,,,4.0,5,5,Light red,5,7,yellow,10.0,,"stunted growth, crinkled leaves, poor",,1.0,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00005,CIP316367.088,64,5,1,1,7,5.0,2.0,7.0,5.0,7.0,2025-07-01,White ,7.0,5,5,Yellow,5,5,creme,0.0,,,,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00006,CIP316349.140,30,6,1,1,9,3.0,2.0,5.0,3.0,3.0,2025-07-22,White ,4.0,3,3,Light yellow,5,5,dark yellow,0.0,,"stunted growth, weak",,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00007,Sherekea,131,7,1,1,9,5.0,2.0,5.0,5.0,5.0,2025-07-22, Purple,6.0,5,7,Red,5,7,light yellow,0.0,,,,1.0,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00008,CIP316376.014,126,8,1,1,10,5.0,2.0,5.0,7.0,3.0,2025-07-16,White ,7.0,7,7,Light yellow,5,7,dark yellow,0.0,,stolons,,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00009,CIP316357.059,52,9,1,1,7,5.0,2.0,5.0,5.0,3.0,2025-07-22,White ,5.0,5,5,Yellow,7,5,light yellow,0.0,,less yield,,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00010,CIP316367.075,117,10,1,1,10,5.0,1.0,7.0,5.0,3.0,2025-07-22, Light purple,6.0,5,5,Light red,5,5,yellow,0.0,,erect plants,,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00011,CIP316349.031,54,11,1,1,9,5.0,2.0,7.0,5.0,3.0,2025-07-22, Light purple,5.0,5,5,Mix-Colour,7,5,yellow,0.0,,"leaf roll, ",,1.0,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00012,CIP316367.103,122,12,1,1,10,5.0,2.0,7.0,5.0,3.0,2025-07-22, Purple,7.0,7,7,Mix-Colour,5,5,yellow,0.0,,uniform plants,,1.0,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00013,CIP316349.032,21,13,1,1,8,3.0,2.0,3.0,3.0,0.0,,,3.0,3,3,Red,3,5,yellow,0.0,,"poor and late emerge,bad",,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00014,CIP316353.019,36,14,1,1,10,5.0,2.0,7.0,7.0,5.0,2025-07-07, Purple,8.0,7,7,Mix-Colour,7,7,light yellow,0.0,,"good vigor ,like wanjiku",,1.0,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00015,CIP316367.088,119,15,1,1,10,7.0,1.0,7.0,5.0,7.0,2025-06-24,White ,7.0,5,7,Light yellow,9,5,yellow,0.0,,fast growth,,1.0,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00016,CIP316353.059,43,16,1,1,3,3.0,2.0,5.0,3.0,0.0,,,3.0,3,3,Yellow,3,5,dark yellow,0.0,,"stunted growth, pvy virus,bad ",,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00017,CIP316363.058,92,17,1,1,9,5.0,2.0,7.0,7.0,3.0,2025-07-22,White ,7.0,7,7,Light yellow,5,7,yellow,0.0,,deep eyes,,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00018,CIP316365.001,107,18,1,1,6,3.0,2.0,3.0,3.0,0.0,,,3.0,5,3,Mix-Colour,3,3,dark yellow,0.0,,"very late emergence,bad yield",,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00019,CIP316361.025,71,19,1,1,10,5.0,2.0,7.0,7.0,5.0,2025-07-16,White ,7.0,7,9,Yellow,9,7,creme,0.0,,"pinkish eyes,good pass",,1.0,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00020,CIP316353.058,42,20,1,1,4,5.0,2.0,5.0,5.0,5.0,2025-07-16,White ,4.0,5,7,Light yellow,9,7,creme,0.0,,"poor emergence,less yield",,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00021,CIP316366.132,113,21,1,1,8,3.0,2.0,5.0,5.0,0.0,,,4.0,5,5,Light yellow,5,5,yellow,0.0,,poor and late emerge,,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00022,CIP316361.135,82,22,1,1,9,5.0,2.0,7.0,5.0,3.0,2025-07-22,White ,7.0,5,5,Light yellow,5,5,light yellow,0.0,,pinkish eyes,,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00023,CIP316359.151,66,23,1,1,9,5.0,2.0,7.0,7.0,3.0,2025-07-22, Purple,7.0,5,7,Yellow,5,7,yellow,0.0,,"good vigor, crinkled leaves,nice shape",,1.0,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00024,CIP316355.037,49,24,1,1,8,5.0,1.0,5.0,5.0,3.0,2025-07-16,White ,6.0,5,5,Yellow,7,5,dark yellow,0.0,,erect plants,,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00025,Sagitta,130,25,1,1,8,3.0,2.0,3.0,3.0,0.0,,,4.0,3,5,Yellow,3,7,yellow,0.0,,"very late emerge, poor emergence,less tubers",,1.0,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00026,CIP316361.094,80,26,1,1,10,5.0,2.0,9.0,7.0,3.0,2025-07-22,White ,8.0,7,5,Light yellow,7,5,creme,0.0,,"good vigor, uniform ,deep eyes",,1.0,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00027,CIP316365.001,8,27,1,1,7,5.0,2.0,5.0,5.0,0.0,,,5.0,5,5,Mix-Colour,5,5,yellow,0.0,,bw,1.0,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00028,CIP316349.076,25,28,1,1,10,7.0,2.0,5.0,7.0,5.0,2025-06-24, Purple,8.0,7,7,Mix-Colour,7,7,creme,0.0,,"fast growth,",,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00029,CIP312079.001,2,29,1,1,10,7.0,2.0,5.0,7.0,5.0,2025-06-24,White ,7.0,7,7,Yellow,7,5,dark yellow,0.0,,fast growth,,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00030,Unica,129,30,1,1,10,5.0,2.0,7.0,7.0,3.0,2025-07-16, Light purple,8.0,5,7,Red,5,7,yellow,0.0,,good vigor,,1.0,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00031,CIP316361.045,76,31,1,1,9,5.0,1.0,5.0,5.0,3.0,2025-07-22,White ,4.0,5,5,Yellow,5,5,yellow,10.0,20.0,"erect short plants, bad yield",,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00032,CIP316359.061,108,32,1,1,10,5.0,2.0,7.0,7.0,3.0,2025-07-22,White ,7.0,7,5,Yellow,5,5,yellow,0.0,,"crinkled leaves, good vigor",,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00033,CIP316349.121,27,33,1,1,10,5.0,1.0,7.0,5.0,5.0,2025-07-07, Light purple,6.0,5,5,Mix-Colour,5,5,light yellow,0.0,10.0,erect plants,,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00034,CIP316349.006,17,34,1,1,8,5.0,2.0,5.0,5.0,0.0,,,5.0,3,5,Light yellow,5,5,light yellow,0.0,,"crinkled leaves, pvy,",,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00035,CIP316353.030,38,35,1,1,9,5.0,2.0,5.0,5.0,5.0,2025-07-07, Light purple,6.0,5,5,Light yellow,5,5,creme,0.0,,,,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00036,CIP316363.081,95,36,1,1,8,5.0,2.0,5.0,5.0,3.0,2025-07-22, Light purple,5.0,3,5,Mix-Colour,5,5,creme,0.0,,"pvy, crinkled leaves",,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00037,CIP316349.031,20,37,1,1,10,5.0,2.0,7.0,5.0,0.0,,,6.0,5,7,Mix-Colour,7,7,light yellow,0.0,,"look wanjiku,pass",,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00038,CIP316361.029,72,38,1,1,8,5.0,2.0,5.0,5.0,0.0,,,4.0,5,5,Mix-Colour,7,5,creme,0.0,,appears Wanjiku,,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00039,CIP316355.041,50,39,1,1,10,5.0,2.0,7.0,3.0,3.0,2025-07-16,White ,3.0,7,5,Light yellow,5,5,yellow,0.0,,"stunted growth, leaf roll virus",,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00040,CIP316366.132,113,40,1,1,8,5.0,2.0,7.0,3.0,3.0,2025-07-22,White ,4.0,7,5,Light yellow,5,5,yellow,0.0,,"leaf roll virus, stunted growth",,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00041,CIP316359.117,65,41,1,1,10,5.0,2.0,7.0,7.0,3.0,2025-07-22, Purple,8.0,7,7,Mix-Colour,7,7,light yellow,0.0,,"good vigor, crinkled leaves,nice",,1.0,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00042,CIP316353.015,35,42,1,1,8,5.0,2.0,7.0,7.0,7.0,2025-07-01,White ,7.0,7,5,Light yellow,7,5,yellow,0.0,,good vigor,,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00043,CIP316354.165,94,43,1,1,10,5.0,1.0,7.0,5.0,5.0,2025-07-07,White ,6.0,7,5,Yellow,5,7,yellow,0.0,,erect plants,,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00044,CIP316367.088,43,44,1,1,10,5.0,1.0,7.0,5.0,7.0,2025-07-07,White ,7.0,7,5,Light yellow,5,5,creme,0.0,,erect,,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00045,CIP316353.054,41,1,2,1,10,5.0,1.0,7.0,5.0,3.0,2025-07-22,White ,6.0,7,7,Light yellow,7,5,creme,0.0,,alot of greening,,1.0,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00046,CIP316353.129,46,2,2,1,10,5.0,2.0,7.0,5.0,3.0,2025-07-16, Light purple,7.0,7,5,Mix-Colour,5,5,creme,0.0,,,,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00047,CIP316349.066,23,3,2,1,10,5.0,1.0,7.0,5.0,3.0,2025-07-22, Light purple,5.0,5,5,Mix-Colour,5,7,light yellow,0.0,,"crinkled leaves,rough skin",,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00048,CIP316349.102,26,4,2,1,10,5.0,2.0,5.0,5.0,3.0,2025-07-22, Light purple,5.0,5,5,Mix-Colour,5,5,creme,0.0,,not good tubers,,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00049,CIP316371.148,125,5,2,1,10,5.0,1.0,5.0,5.0,5.0,2025-07-07, Light purple,6.0,7,5,Red,5,5,yellow,0.0,40.0,"erect plants,red striped",1.0,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00050,CIP316360.145,68,6,2,1,9,5.0,2.0,5.0,5.0,3.0,2025-07-16,White ,5.0,7,5,Yellow,5,5,yellow,0.0,,,,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00051,CIP316363.056,91,7,2,1,10,5.0,1.0,7.0,5.0,5.0,2025-07-07, Light purple,5.0,5,5,Mix-Colour,5,5,creme,0.0,,,,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00052,CIP316361.030,73,8,2,1,10,5.0,2.0,7.0,7.0,3.0,2025-07-16,White ,7.0,5,7,Light yellow,7,7,light yellow,,,pinkish eyes,,1.0,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00053,CIP312079.009,10,9,2,1,10,5.0,2.0,7.0,7.0,3.0,2025-07-16,White ,8.0,5,7,Light yellow,9,7,yellow,0.0,,"good vigor,less yield",,1.0,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00054,CIP316363.055,90,10,2,1,9,5.0,2.0,5.0,5.0,3.0,2025-07-16, Purple,6.0,5,5,Mix-Colour,5,7,yellow,0.0,,,,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00055,CIP316357.067,53,11,2,1,6,5.0,2.0,5.0,5.0,3.0,2025-07-22, Purple,6.0,7,5,Light yellow,5,5,creme,0.0,,,,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00056,CIP316358.029,54,12,2,1,10,5.0,2.0,7.0,5.0,5.0,2025-07-07,White ,6.0,7,5,Yellow,5,7,yellow,10.0,,"lead roll virus,deep eyes,irregular shape",,1.0,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00057,CIP316363.048,89,13,2,1,4,3.0,2.0,5.0,3.0,0.0,,,3.0,3,5,Mix-Colour,3,5,creme,0.0,,"poor and late emergence,less yield",,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00058,CIP316356.023,51,14,2,1,9,5.0,2.0,7.0,7.0,5.0,2025-07-07, Purple,7.0,5,7,Mix-Colour,5,5,light yellow,0.0,,,,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00059,CIP316349.017,18,15,2,1,9,5.0,1.0,5.0,3.0,5.0,2025-07-07, Purple,4.0,5,5,Mix-Colour,5,7,yellow,0.0,,"leaf roll virus, short plants,rough skin",,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00060,CIP316358.029,110,16,2,1,10,5.0,2.0,7.0,5.0,3.0,2025-07-22,White ,6.0,7,5,Yellow,7,5,yellow,0.0,,"deep eyes,pinkish eyes",,1.0,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00061,CIP316349.030,19,17,2,1,10,5.0,2.0,5.0,5.0,3.0,2025-07-22, Light purple,5.0,5,5,Mix-Colour,5,5,light yellow,0.0,,less yield,,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00062,CIP316354.164,47,18,2,1,10,5.0,1.0,9.0,5.0,3.0,2025-07-16,White ,6.0,5,7,Yellow,7,7,yellow,0.0,,looks sagitta but pink eyes,,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00063,CIP316353.026,37,19,2,1,9,5.0,2.0,5.0,5.0,3.0,2025-07-22,White ,5.0,7,5,Yellow,5,5,yellow,0.0,,mulformed shape,,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00064,CIP316349.134,88,20,2,1,9,5.0,2.0,3.0,5.0,3.0,2025-07-16, Light purple,4.0,7,7,Red,5,5,yellow,0.0,,"bacterial disease symptoms leaf roll , stunted growt,less yield but looks sherekea",,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00065,CIP312079.003,4,21,2,1,8,5.0,2.0,5.0,5.0,3.0,2025-07-16, Purple,4.0,5,5,Light yellow,5,5,yellow,10.0,,poor emerge,,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00066,CIP316361.022,70,22,2,1,9,5.0,2.0,7.0,5.0,3.0,2025-07-16,White ,6.0,5,7,Light yellow,5,5,creme,0.0,,,,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00067,CIP316352.008,32,23,2,1,9,5.0,1.0,5.0,5.0,3.0,2025-07-16,White ,4.0,5,5,Light yellow,5,5,yellow,0.0,,"stunted growth, leaf roll, crinkled leaves",,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00068,Sherekea,131,24,2,1,7,3.0,2.0,5.0,3.0,0.0,,,4.0,3,7,Red,5,7,creme,0.0,,poor and late emerge,,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00069,CIP316363.065,93,25,2,1,10,5.0,2.0,5.0,5.0,5.0,2025-07-07, Light purple,6.0,5,5,Mix-Colour,5,5,yellow,0.0,,"leaf roll,rough skin",,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00070,CIP316361.069,77,26,2,1,10,5.0,2.0,7.0,5.0,0.0,,,6.0,5,7,Light yellow,5,7,creme,0.0,,uniform,,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00071,CIP316352.076,34,27,2,1,9,5.0,1.0,5.0,5.0,3.0,2025-07-29,White ,5.0,5,5,Light yellow,7,5,creme,0.0,,"erect plants,pink eyes",,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00072,CIP316360.018,67,28,2,1,10,5.0,2.0,5.0,5.0,5.0,2025-07-07, Purple,6.0,5,5,Mix-Colour,5,5,dark yellow,0.0,,leaf roll ,,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00073,CIP316365.058,109,29,2,1,10,3.0,2.0,3.0,5.0,3.0,2025-07-22,White ,4.0,5,5,Light yellow,5,5,yellow,0.0,,"lats emerge,less yield",,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00074,CIP316353.104,44,30,2,1,9,5.0,1.0,7.0,5.0,5.0,2025-07-07,White ,6.0,7,5,Mix-Colour,7,5,creme,5.0,,erect plants,,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00075,CIP316363.092,96,31,2,1,10,5.0,2.0,7.0,7.0,5.0,2025-07-07,White ,8.0,7,7,Light yellow,5,7,creme,0.0,,"good vigor,deep eyes",,1.0,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00076,CIP316358.029,88,32,2,1,10,5.0,1.0,5.0,5.0,3.0,2025-07-16,White ,5.0,7,5,Yellow,5,7,yellow,10.0,,"leaf roll, erect plants,pink eyes",,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00077,CIP316363.103,100,33,2,1,10,5.0,2.0,5.0,7.0,5.0,2025-07-07,White ,7.0,7,7,Light yellow,5,7,creme,0.0,,,,1.0,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00078,CIP316363.010,116,34,2,1,10,5.0,1.0,7.0,5.0,5.0,2025-07-07, Purple,5.0,7,5,Mix-Colour,5,5,creme,5.0,30.0,severe leaf roll virus,,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00079,CIP316364.033,104,35,2,1,10,5.0,2.0,7.0,7.0,3.0,2025-07-16, Purple,8.0,7,5,Mix-Colour,5,5,yellow,0.0,,good vigor,,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00080,CIP316356.023,51,36,2,1,10,5.0,2.0,7.0,7.0,7.0,2025-07-01, Purple,8.0,7,7,Mix-Colour,5,7,creme,0.0,,giod vigor like it,,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00081,CIP316359.004,60,37,2,1,9,5.0,1.0,5.0,5.0,3.0,2025-07-16,White ,5.0,7,5,Light yellow,5,5,creme,0.0,,"leaf roll, erect plants",,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00082,Shangi,8,38,2,1,10,7.0,1.0,5.0,5.0,7.0,2025-07-01, Purple,5.0,7,7,Light red,5,7,light yellow,0.0,,"leaf roll, erect plants- Shangi,yes its shangi",,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00083,CIP316363.055,90,39,2,1,8,5.0,1.0,5.0,5.0,5.0,2025-07-16, Purple,4.0,5,5,Mix-Colour,5,5,light yellow,0.0,,"erect plants, late emerge",,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00084,CIP312079.004,5,40,2,1,10,5.0,2.0,7.0,9.0,5.0,2025-07-07, Purple,8.0,7,7,Mix-Colour,9,9,yellow,0.0,,good vigor good can shine wanjiku,,1.0,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00085,CIP316353.048,40,41,2,1,5,5.0,2.0,5.0,5.0,3.0,2025-07-16, Light purple,4.0,7,5,Mix-Colour,5,5,light yellow,0.0,,"bw, ",2.0,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00086,CIP316354.165,101,42,2,1,9,5.0,1.0,7.0,5.0,5.0,2025-07-07,White ,7.0,7,7,Dark yellow,5,5,yellow,0.0,,erect plants,,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00087,CIP316363.094,97,43,2,1,8,5.0,2.0,5.0,7.0,3.0,2025-07-16,White ,6.0,5,5,Light yellow,5,5,yellow,0.0,,deep eyes,,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00088,CIP316361.085,79,44,2,1,10,5.0,2.0,7.0,9.0,5.0,2025-07-07,White ,8.0,5,7,Light red,7,7,creme,0.0,,"excellent vigor, uniformity",,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00089,CIP316363.095,98,1,3,1,10,3.0,2.0,5.0,3.0,0.0,,,4.0,5,5,Light yellow,5,7,light yellow,0.0,,late emerge,,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00090,CIP316358.029,3,2,3,1,10,5.0,2.0,7.0,5.0,5.0,2025-07-07,White ,7.0,7,7,Yellow,5,7,light yellow,0.0,,deep skin,,1.0,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00091,CIP316363.096,99,3,3,1,10,3.0,2.0,5.0,3.0,0.0,,,4.0,5,5,Light red,5,5,yellow,0.0,,late emergence,,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00092,CIP316359.026,61,4,3,1,10,5.0,1.0,7.0,7.0,5.0,2025-07-07,White ,8.0,7,5,Light yellow,5,7,creme,0.0,,high vigor,,1.0,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00093,CIP316349.040,22,5,3,1,10,5.0,2.0,5.0,5.0,3.0,2025-07-22, Light purple,6.0,7,5,Yellow,5,5,yellow,5.0,,,,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00094,CIP316358.029,24,6,3,1,10,5.0,2.0,5.0,5.0,3.0,2025-07-16,White ,6.0,7,5,Yellow,5,5,light yellow,10.0,45.0,lear roll,,1.0,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00095,CIP316363.081,81,7,3,1,9,5.0,2.0,7.0,5.0,3.0,2025-07-29,White ,6.0,5,7,Mix-Colour,5,7,creme,0.0,,,,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00096,CIP316348.047,15,8,3,1,7,3.0,2.0,5.0,5.0,3.0,2025-07-29,White ,3.0,3,5,Light yellow,5,5,light yellow,0.0,,"stunted growth, poor emerge,mulformed",,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00097,CIP316353.058,42,9,3,1,9,5.0,2.0,5.0,5.0,3.0,2025-07-16,White ,6.0,5,7,Light yellow,9,7,light yellow,0.0,,less tuber but big,,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00098,CIP316361.030,73,10,3,1,10,5.0,2.0,7.0,9.0,5.0,2025-07-16,White ,8.0,5,7,Yellow,7,7,creme,0.0,,"high vigor,cracks,stolon,hole heart",,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00099,CIP316349.076,25,11,3,1,10,7.0,2.0,5.0,7.0,5.0,2025-06-24, Purple,7.0,7,5,Mix-Colour,7,5,creme,0.0,,"fast growth, crinkled leaves",,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00100,CIP316349.032,21,12,3,1,9,3.0,2.0,3.0,3.0,3.0,2025-07-29, Light purple,3.0,5,5,Red,3,5,light yellow,0.0,,"poor and late emerge,bad",,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00101,CIP316363.095,98,13,3,1,9,5.0,1.0,7.0,5.0,3.0,2025-07-29,White ,5.0,5,5,Light yellow,5,5,yellow,0.0,,erect plants,,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00102,Shangi,132,14,3,1,10,7.0,1.0,5.0,5.0,5.0,2025-06-24, Purple,6.0,7,5,Light red,5,5,yellow,0.0,20.0,erect plants,,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00103,CIP316352.076,34,15,3,1,7,3.0,2.0,5.0,5.0,0.0,,,5.0,5,5,Light red,5,5,light yellow,0.0,,mulformed,,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00104,CIP316359.061,108,16,3,1,9,5.0,2.0,5.0,5.0,0.0,,,4.0,5,5,Light yellow,5,5,yellow,0.0,,"crinkled leaves, low vigor",,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00105,CIP316363.056,91,17,3,1,9,5.0,1.0,7.0,5.0,7.0,2025-07-01, Purple,6.0,5,5,Mix-Colour,5,5,light yellow,5.0,10.0,"erect plants, leaf roll",,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00106,CIP316352.027,33,18,3,1,10,5.0,2.0,7.0,5.0,3.0,2025-07-22,White ,6.0,7,7,Light yellow,5,5,light yellow,5.0,10.0,alot tuber but small,,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00107,CIP316361.069,77,19,3,1,8,3.0,2.0,3.0,5.0,3.0,2025-07-22,White ,4.0,5,3,Light yellow,5,5,creme,0.0,,poor and late emerge,,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00108,CIP316367.087,118,20,3,1,10,5.0,1.0,5.0,5.0,5.0,2025-07-16,White ,6.0,7,5,Yellow,5,5,dark yellow,0.0,,erect plants,,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00109,CIP316358.070,58,21,3,1,10,5.0,2.0,7.0,7.0,5.0,2025-07-07,White ,7.0,7,5,Light yellow,7,5,creme,0.0,,lodging plants,,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00110,CIP316361.037,75,22,3,1,10,5.0,2.0,5.0,5.0,5.0,2025-07-07,White ,6.0,7,7,Light yellow,7,7,dark yellow,0.0,,"nice,hole heart",,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00111,CIP316357.067,53,23,3,1,9,5.0,2.0,7.0,5.0,3.0,2025-07-16,White ,5.0,5,5,Light yellow,5,5,creme,0.0,,,,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00112,CIP316363.092,96,24,3,1,10,5.0,2.0,7.0,9.0,5.0,2025-07-01,White ,9.0,7,7,Light yellow,5,7,creme,0.0,,perfect vigor gd yield,,1.0,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00113,CIP316364.010,102,25,3,1,10,5.0,2.0,7.0,5.0,5.0,2025-07-01,White ,7.0,7,5,Light yellow,7,7,yellow,0.0,,pink eyes,,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00114,CIP316363.058,92,26,3,1,7,3.0,2.0,5.0,5.0,0.0,,,3.0,3,3,Yellow,5,5,yellow,0.0,,"poor emerge, weak plants,bad",,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00115,CIP316361.035,74,27,3,1,10,5.0,2.0,7.0,5.0,5.0,2025-07-07,White ,6.0,5,7,Light red,7,5,yellow,0.0,,nice colour,,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00116,Shangi,85,28,3,1,10,7.0,1.0,5.0,5.0,7.0,2025-06-24, Purple,7.0,7,5,Light red,5,5,yellow,5.0,,Appears shangi.its shangi,,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00117,CIP316366.044,112,29,3,1,9,5.0,2.0,5.0,5.0,3.0,2025-07-29,White ,4.0,5,5,Light yellow,3,5,creme,0.0,,"stunted growth, lodging, crincked leaves,less yield",,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00118,CIP316354.165,48,30,3,1,10,5.0,2.0,5.0,7.0,5.0,2025-07-07,White ,7.0,5,7,Dark yellow,7,5,yellow,0.0,,looks Tigoni,,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00119,CIP316359.061,114,31,3,1,10,5.0,2.0,7.0,7.0,0.0,,,7.0,5,7,Light yellow,5,7,yellow,0.0,,good ,,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00120,CIP316364.012,103,32,3,1,10,5.0,2.0,7.0,5.0,3.0,2025-07-22,White ,6.0,5,7,Yellow,9,7,yellow,0.0,,"open canopy,must shine",,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00121,CIP316365.058,109,33,3,1,10,5.0,2.0,5.0,7.0,5.0,2025-07-16,White ,7.0,7,7,Yellow,7,7,yellow,0.0,,"crinkled leaves,less tubers but gd",,1.0,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00122,CIP316349.102,26,34,3,1,10,5.0,,7.0,5.0,5.0,2025-07-07, Purple,6.0,7,5,Mix-Colour,5,5,creme,0.0,,deep eyes,,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00123,CIP312079.010,11,35,3,1,9,5.0,2.0,5.0,7.0,3.0,2025-07-16, Purple,7.0,7,5,Mix-Colour,5,5,light yellow,10.0,,good vigor,,1.0,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00124,CIP316349.141,31,36,3,1,9,7.0,2.0,5.0,5.0,5.0,2025-06-24, Purple,7.0,7,5,Mix-Colour,5,5,creme,0.0,,"open canopy,cracks,rough skin",,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00125,CIP316361.010,69,37,3,1,10,5.0,1.0,7.0,5.0,3.0,2025-07-22,White ,6.0,5,7,Light yellow,7,5,light yellow,0.0,,erect plants,,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00126,CIP316363.010,19,38,3,1,10,5.0,1.0,7.0,5.0,3.0,2025-07-22, Light purple,5.0,5,5,Mix-Colour,5,7,creme,0.0,,"leaf roll virus,rough skin",,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00127,CIP316363.029,87,39,3,1,10,5.0,2.0,5.0,5.0,0.0,,,5.0,7,5,Light red,5,5,light yellow,5.0,20.0,"pvy, leafroll virus,stolonsdeep eyes",,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00128,CIP316348.096,16,40,3,1,10,5.0,1.0,5.0,5.0,3.0,2025-07-29,White ,5.0,5,5,Yellow,5,5,yellow,0.0,,erect leaves,,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00129,CIP316349.017,18,41,3,1,10,5.0,1.0,5.0,5.0,7.0,2025-07-01, Purple,6.0,7,5,Mix-Colour,5,5,yellow,0.0,,erect plants,,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00130,CIP316366.015,111,42,3,1,9,5.0,2.0,7.0,9.0,3.0,2025-07-22, Light purple,8.0,7,7,Mix-Colour,7,7,yellow,0.0,,"good vigor, appears wanjiku rotten2",,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00131,CIP316349.121,27,43,3,1,10,5.0,1.0,5.0,5.0,5.0,2025-07-07, Light purple,5.0,5,5,Red,5,5,yellow,5.0,,erect plants,,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00132,CIP312079.006,7,44,3,1,10,5.0,2.0,7.0,7.0,5.0,2025-07-01, Purple,8.0,5,5,Yellow,7,7,yellow,0.0,,"good vigor, broad shiny leaves, nice",,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00133,CIP316353.054,41,1,4,1,10,5.0,1.0,7.0,5.0,5.0,2025-07-07,White ,6.0,7,7,Light yellow,7,7,creme,0.0,,nice,,1.0,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00134,CIP316358.055,56,2,4,1,6,3.0,2.0,5.0,3.0,0.0,,,4.0,5,5,Light yellow,5,5,yellow,0.0,,poor and late emerge,,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00135,CIP316365.001,101,3,4,1,7,5.0,2.0,5.0,5.0,3.0,2025-07-22, Purple,4.0,3,5,Mix-Colour,5,5,yellow,0.0,,poor emerge,,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00136,CIP316353.019,36,4,4,1,10,7.0,2.0,7.0,7.0,5.0,2025-07-01, Purple,8.0,7,7,Mix-Colour,9,7,yellow,0.0,,"fast growth, high vigor",,1.0,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00137,CIP316363.096,99,5,4,1,7,5.0,2.0,5.0,5.0,0.0,,,5.0,5,5,Red,5,5,yellow,0.0,,,,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00138,Shangi,132,6,4,1,10,7.0,2.0,7.0,7.0,7.0,2025-07-01, Purple,7.0,7,5,Light red,5,5,light yellow,0.0,,,,1.0,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00139,CIP316371.148,125,7,4,1,9,5.0,2.0,7.0,7.0,5.0,2025-07-01, Light purple,7.0,7,7,Red,7,7,yellow,0.0,,red striped,1.0,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00140,CIP316361.045,76,8,4,1,9,5.0,2.0,5.0,5.0,5.0,2025-07-08,White ,5.0,7,5,Yellow,5,7,dark yellow,10.0,,,,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00141,CIP316359.151,66,9,4,1,10,5.0,2.0,7.0,7.0,5.0,2025-07-07, Purple,8.0,7,7,Yellow,5,7,dark yellow,0.0,,"good vigor, leaf roll ,nice",,1.0,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00142,CIP316361.025,71,10,4,1,10,5.0,2.0,5.0,7.0,3.0,2025-07-22,White ,7.0,5,7,Yellow,7,7,yellow,0.0,,pink eyes,,1.0,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00143,CIP316361.085,79,11,4,1,10,5.0,2.0,7.0,7.0,5.0,2025-07-08,White ,8.0,5,7,Light red,7,7,creme,0.0,,"uniform, high vigor must shine",,1.0,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00144,CIP316363.010,84,12,4,1,10,5.0,1.0,7.0,5.0,3.0,2025-07-22, Light purple,5.0,5,7,Mix-Colour,7,7,creme,0.0,,"leaf roll virus,rough skin",,1.0,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00145,CIP316365.001,107,13,4,1,6,5.0,2.0,5.0,5.0,3.0,2025-07-29, Purple,4.0,5,5,Mix-Colour,5,7,yellow,0.0,,"bw, poor emerge, less yield",1.0,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00146,CIP316364.012,103,14,4,1,10,5.0,2.0,5.0,5.0,3.0,2025-07-16,White ,4.0,5,5,Yellow,7,5,yellow,0.0,,late emerge,,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00147,CIP316353.026,37,15,4,1,10,5.0,2.0,3.0,5.0,3.0,2025-07-29,White ,5.0,7,5,Dark yellow,5,5,yellow,0.0,,leafroll virus on 4 plants,,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00148,CIP316367.120,123,16,4,1,10,3.0,2.0,5.0,5.0,0.0,,,4.0,5,7,Mix-Colour,5,7,yellow,0.0,,late emerge,,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00149,CIP316357.059,52,17,4,1,10,7.0,2.0,5.0,7.0,5.0,2025-07-16,White ,8.0,7,5,Yellow,7,5,creme,0.0,,"high vigor,stolons",,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00150,CIP316363.103,100,18,4,1,10,5.0,2.0,9.0,9.0,5.0,2025-07-01,White ,8.0,7,9,Light yellow,5,7,creme,0.0,,"nice vigor and uniformity,alotvof yield",,1.0,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00151,CIP316363.029,87,19,4,1,10,7.0,2.0,5.0,7.0,5.0,2025-06-24, Light purple,6.0,5,5,Mix-Colour,5,5,yellow,10.0,,leaf roll virus,,1.0,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00152,CIP316349.006,17,20,4,1,7,5.0,2.0,5.0,5.0,3.0,2025-07-16, Light purple,5.0,5,5,Yellow,5,5,yellow,0.0,,"crinkled leaves,hole heart",,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00153,CIP316358.069,57,21,4,1,10,7.0,1.0,7.0,5.0,7.0,2025-07-01, Purple,6.0,7,7,Light red,5,5,yellow,0.0,,appears Shangi.its shangi,,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00154,CIP316355.037,49,22,4,1,5,5.0,2.0,5.0,5.0,3.0,2025-07-16,White ,4.0,5,5,Yellow,5,5,yellow,0.0,,"poor emerge,less tubers",,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00155,CIP316367.088,120,23,4,1,9,5.0,2.0,7.0,5.0,5.0,2025-07-07,White ,6.0,5,5,Yellow,5,5,yellow,0.0,,"bw, 2 plants",2.0,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00156,CIP312079.006,7,24,4,1,10,7.0,3.0,7.0,7.0,5.0,2025-06-24, Purple,8.0,7,7,Yellow,7,7,yellow,0.0,10.0,"high vigor,fast growth",,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00157,CIP316349.128,28,25,4,1,7,3.0,2.0,5.0,3.0,3.0,2025-07-29, Light purple,4.0,5,5,Red,3,5,yellow,0.0,,late emerge,,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00158,CIP316359.117,65,26,4,1,10,5.0,2.0,7.0,9.0,5.0,2025-07-07, Purple,9.0,7,9,Mix-Colour,9,7,yellow,0.0,,perfect vigor and uniformity must shine,,1.0,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00159,CIP316358.138,59,27,4,1,3,3.0,2.0,5.0,5.0,3.0,2025-07-16,White ,3.0,3,5,Yellow,3,5,light yellow,0.0,,"poor emerge,less yield",,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00160,CIP316363.028,86,28,4,1,10,5.0,1.0,7.0,5.0,5.0,2025-07-07, Purple,7.0,7,9,Light red,7,7,creme,0.0,,erect plants must shine,,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00161,CIP316359.004,60,29,4,1,10,5.0,2.0,7.0,5.0,5.0,2025-07-07,White ,6.0,7,5,Light yellow,7,5,creme,0.0,,hole heart,,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00162,CIP316367.048,115,30,4,1,9,3.0,2.0,5.0,5.0,3.0,2025-07-22, Purple,5.0,5,5,Mix-Colour,5,5,creme,0.0,,hole heart,,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00163,CIP316364.034,105,31,4,1,10,5.0,2.0,7.0,7.0,5.0,2025-07-01,White ,6.0,7,5,Light yellow,5,5,light yellow,0.0,,,,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00164,CIP316359.061,63,32,4,1,9,5.0,2.0,5.0,5.0,5.0,2025-07-07,White ,6.0,5,3,Yellow,5,5,dark yellow,0.0,,"leaf decolorization, crinkled leaves",,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00165,CIP316358.138,81,33,4,1,8,3.0,2.0,5.0,5.0,3.0,2025-07-29,White ,4.0,5,3,Yellow,5,5,yellow,0.0,,poor emerge,,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00166,CIP316361.035,74,34,4,1,10,5.0,2.0,7.0,5.0,5.0,2025-07-07,White ,6.0,5,5,Light red,5,5,yellow,0.0,,uniform plants,,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00167,CIP316361.022,70,35,4,1,10,5.0,2.0,7.0,7.0,3.0,2025-07-16,White ,8.0,5,5,Light yellow,5,5,light yellow,0.0,,"good vigor and uniform,hole heart",,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00168,CIP316348.096,16,36,4,1,10,5.0,1.0,7.0,7.0,3.0,2025-07-22,White ,7.0,7,5,Yellow,5,5,yellow,0.0,,"erect plants,hole heart",,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00169,CIP316359.061,120,37,4,1,9,5.0,2.0,5.0,7.0,3.0,2025-07-22,White ,6.0,7,5,Yellow,5,5,yellow,0.0,,crinkled leaves,,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00170,CIP316353.030,38,38,4,1,10,5.0,1.0,5.0,5.0,3.0,2025-07-16, Light purple,5.0,5,5,Light yellow,5,5,yellow,0.0,,erect leaves,,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00171,CIP316367.075,117,39,4,1,10,5.0,1.0,5.0,5.0,0.0,,,5.0,5,5,Red,7,5,yellow,0.0,,"leaf roll virus, erect plants,hole heart",,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00172,CIP316359.036,62,40,4,1,8,5.0,2.0,5.0,5.0,3.0,2025-07-16, Purple,5.0,5,7,Mix-Colour,9,7,yellow,0.0,,"nice but less tubers,hole heart",,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00173,CIP316376.020,127,41,4,1,9,5.0,1.0,5.0,5.0,5.0,2025-07-16,White ,6.0,5,5,Light yellow,7,5,yellow,0.0,,"stolons,hole heart",,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00174,CIP316363.048,89,42,4,1,4,3.0,2.0,5.0,5.0,3.0,2025-07-22, Light purple,3.0,5,7,Mix-Colour,5,5,creme,0.0,,few plants emerged hole heart,,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00175,CIP316367.048,115,43,4,1,8,3.0,2.0,5.0,5.0,3.0,2025-07-16, Light purple,4.0,7,5,Mix-Colour,5,5,creme,0.0,,"late emerge,hole heart",,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00176,CIP316358.029,55,44,4,1,10,5.0,2.0,7.0,5.0,0.0,,,6.0,7,5,Yellow,5,7,yellow,10.0,50.0,"leaf roll,deep eyes,pinkish eyes",,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00177,CIP316367.087,118,1,5,1,10,5.0,1.0,7.0,5.0,5.0,2025-07-16,White ,6.0,7,7,Light yellow,7,7,yellow,0.0,,erect plants,,1.0,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00178,CIP316358.138,59,2,5,1,0,,,,,,,,,5,1,Yellow,1,1,yellow,,,"no plants emerged ,bad yield",,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00179,CIP316367.103,122,3,5,1,10,5.0,2.0,7.0,7.0,5.0,2025-07-16, Purple,7.0,5,7,Mix-Colour,5,7,yellow,0.0,,good vigor,,1.0,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00180,CIP316364.043,106,4,5,1,7,5.0,2.0,5.0,7.0,5.0,2025-07-16,White ,5.0,5,5,Light red,5,5,creme,0.0,,shiny leaves,,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00181,CIP316360.018,67,5,5,1,10,5.0,2.0,7.0,5.0,5.0,2025-07-07, Purple,6.0,5,5,Mix-Colour,5,5,yellow,0.0,,open canopy,,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00182,CIP316359.061,121,6,5,1,10,5.0,,7.0,5.0,3.0,2025-07-22,White ,6.0,7,5,Light yellow,3,5,yellow,0.0,,"crinkled leaves, open canopy",,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00183,CIP316367.088,119,7,5,1,9,5.0,1.0,7.0,7.0,7.0,2025-07-01,White ,7.0,5,5,Light yellow,5,5,creme,5.0,,hole heart,,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00184,CIP312079.009,10,8,5,1,20,5.0,3.0,7.0,7.0,3.0,2025-07-29,White ,7.0,7,7,Yellow,9,7,yellow,0.0,,"strong plants, dark green broad leaves,gd tubers,hole heart",,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00185,CIP316353.128,45,9,5,1,10,5.0,2.0,7.0,7.0,3.0,2025-07-22,White ,8.0,7,5,Yellow,5,5,yellow,0.0,,"tall plants, open canopy",,1.0,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00186,CIP316364.033,6,10,5,1,10,5.0,2.0,5.0,7.0,3.0,2025-07-22, Purple,7.0,5,5,Mix-Colour,5,5,yellow,0.0,,,,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00187,CIP316363.081,124,11,5,1,10,5.0,2.0,5.0,5.0,3.0,2025-07-22, Light purple,5.0,5,5,Mix-Colour,5,5,creme,0.0,,"leaf roll virus, lodging plants",,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00188,CIP316352.008,32,12,5,1,7,5.0,2.0,5.0,5.0,3.0,2025-07-16,White ,5.0,7,5,Light yellow,5,5,yellow,5.0,,"stunted growth, leaf roll virus,hole heart",,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00189,CIP316363.094,97,13,5,1,9,5.0,2.0,5.0,5.0,0.0,,,4.0,5,7,Yellow,5,7,yellow,0.0,,irregular emerge,,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00190,CIP316360.145,68,14,5,1,10,5.0,1.0,5.0,5.0,5.0,2025-07-16,White ,5.0,7,7,Light yellow,5,5,yellow,10.0,,"erect plants,hole heart",,1.0,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00191,CIP316359.061,63,15,5,1,9,5.0,2.0,5.0,5.0,3.0,2025-07-22,White ,5.0,5,7,Light yellow,5,7,dark yellow,0.0,,,,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00192,CIP316361.010,69,16,5,1,10,5.0,2.0,7.0,5.0,3.0,2025-07-22,White ,7.0,5,7,Light yellow,7,7,yellow,0.0,,"uniform,hole heart",,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00193,CIP316376.014,126,17,5,1,10,5.0,2.0,5.0,5.0,3.0,2025-07-22,White ,6.0,7,5,Light yellow,5,5,yellow,0.0,,hole heart,,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00194,CIP316349.141,31,18,5,1,10,5.0,2.0,7.0,5.0,5.0,2025-07-01, Purple,6.0,5,3,Light red,5,5,creme,0.0,,"plant lodging,cracks,rough skin",,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00195,CIP316365.001,24,19,5,1,9,3.0,2.0,5.0,3.0,0.0,,,3.0,3,5,Mix-Colour,3,5,yellow,0.0,,late emergence,,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00196,CIP316352.027,33,20,5,1,10,5.0,2.0,7.0,5.0,3.0,2025-07-22,White ,6.0,5,7,Light yellow,3,7,creme,0.0,,"lodging,small but alot tubers",,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00197,CIP316363.065,93,21,5,1,9,5.0,2.0,5.0,5.0,5.0,2025-07-16, Purple,6.0,7,5,Mix-Colour,5,5,yellow,0.0,,"leaf roll, hole heart",,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00198,CIP312079.008,9,22,5,1,9,3.0,2.0,5.0,5.0,0.0,,,5.0,5,7,Mix-Colour,5,5,creme,10.0,,"late blight, late emerge",,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00199,CIP316353.104,44,23,5,1,10,5.0,1.0,7.0,5.0,5.0,2025-07-16,White ,5.0,5,7,Light yellow,7,7,creme,5.0,,"erect plants pink eyes,hole heart",,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00200,CIP316363.010,84,24,5,1,9,5.0,1.0,7.0,5.0,3.0,2025-07-22, Purple,5.0,5,7,Light red,7,7,creme,0.0,,"severe leaf roll virus,hole heart",,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00201,CIP316353.015,35,25,5,1,9,7.0,2.0,5.0,7.0,5.0,2025-06-24, Purple,7.0,9,7,Mix-Colour,5,5,yellow,0.0,5.0,"fast growth, good vigor,hole heart",,1.0,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00202,CIP316354.164,47,26,5,1,8,5.0,1.0,7.0,5.0,5.0,2025-07-16,White ,6.0,5,5,Yellow,5,5,yellow,0.0,,erect plants,,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00203,CIP316358.029,124,27,5,1,10,5.0,2.0,5.0,7.0,5.0,2025-07-01,White ,7.0,7,7,Yellow,5,7,yellow,5.0,40.0,"good vigor, lead roll",,1.0,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00204,CIP316349.128,28,28,5,1,7,3.0,2.0,5.0,3.0,0.0,,,5.0,5,7,Red,5,7,yellow,0.0,,"slow growth, small leaves,less yieldhole heart",,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00205,CIP316363.028,86,29,5,1,9,5.0,2.0,5.0,5.0,3.0,2025-07-22, Purple,6.0,5,7,Light red,7,9,creme,0.0,,nice,,1.0,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00206,CIP312079.010,11,30,5,1,10,3.0,2.0,5.0,5.0,,,,4.0,5,5,Mix-Colour,5,5,creme,10.0,,"late emerge, late blight",,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00207,CIP316362.019,83,31,5,1,10,5.0,2.0,5.0,5.0,3.0,2025-07-22,White ,5.0,5,5,Yellow,5,5,yellow,0.0,,hole heart,,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00208,CIP316361.037,75,32,5,1,10,7.0,1.0,7.0,5.0,5.0,2025-07-01, Purple,6.0,7,5,Light yellow,5,5,yellow,0.0,,"erect plants, shangi appearance",,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00209,Shangi,85,33,5,1,10,5.0,2.0,7.0,5.0,5.0,2025-07-01,White ,6.0,5,7,Light red,5,9,yellow,0.0,,"crinkled leaves,hole heart",,1.0,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00210,CIP316361.094,80,34,5,1,10,5.0,2.0,7.0,7.0,3.0,2025-07-16,White ,7.0,5,7,Light yellow,5,5,light yellow,0.0,,"good vigor,hole heart",,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00211,CIP316361.029,72,35,5,1,7,3.0,2.0,5.0,5.0,0.0,,,4.0,5,5,Mix-Colour,5,7,light yellow,0.0,,"late emerge,hole heart",,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00212,CIP316349.040,22,36,5,1,10,5.0,2.0,7.0,7.0,5.0,2025-07-07, Light purple,7.0,7,5,Yellow,5,5,yellow,0.0,20.0,good vigor,,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00213,CIP312079.011,12,37,5,1,9,5.0,2.0,7.0,5.0,0.0,,,5.0,5,5,Purple,5,5,yellow,10.0,30.0,"late blight, purple stem,bad yield,purple skin",,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00214,CIP316354.165,48,38,5,1,10,5.0,2.0,5.0,7.0,5.0,2025-07-16,White ,7.0,5,7,Dark yellow,5,7,yellow,0.0,,good vigor,,1.0,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00215,CIP316358.138,56,39,5,1,7,5.0,2.0,5.0,5.0,3.0,2025-07-29,White ,4.0,5,7,Yellow,5,5,yellow,0.0,,"slow growth,hole heart",,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00216,CIP312079.008,9,40,5,1,7,3.0,2.0,5.0,3.0,0.0,,,4.0,3,7,Mix-Colour,5,5,creme,15.0,,"late blight, late emergence,less yield",,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00217,CIP316349.134,29,41,5,1,9,5.0,2.0,5.0,3.0,3.0,2025-07-29,White ,4.0,5,5,Light red,5,5,yellow,5.0,,"leaf decolorizafion, leaf roll, weak plants",,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00218,Unica,129,42,5,1,10,5.0,2.0,7.0,7.0,5.0,2025-07-16, Light purple,7.0,7,9,Red,9,7,yellow,0.0,,"good vigor,nice",,1.0,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00219,CIP316349.140,30,43,5,1,7,5.0,2.0,5.0,5.0,3.0,2025-07-16, Light purple,5.0,5,5,Mix-Colour,5,5,yellow,0.0,,,,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00220,CIP316353.128,45,44,5,1,8,5.0,2.0,5.0,7.0,3.0,2025-07-22,White ,6.0,5,7,Yellow,5,5,yellow,0.0,,tall plants,,1.0,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00221,CIP316365.001,13,1,6,1,8,3.0,2.0,5.0,5.0,0.0,,,4.0,5,5,Mix-Colour,5,5,yellow,0.0,,late emerge,,1.0,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00222,CIP316358.029,94,2,6,1,10,5.0,2.0,5.0,5.0,3.0,2025-07-22,White ,7.0,7,7,Yellow,5,7,yellow,5.0,,"deep eyes,irregular shape",,1.0,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00223,CIP316366.015,111,3,6,1,10,5.0,2.0,5.0,7.0,0.0,,,7.0,5,7,Mix-Colour,7,7,creme,0.0,,"good vigor, ",,1.0,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00224,CIP312079.004,5,4,6,1,10,5.0,2.0,5.0,7.0,3.0,2025-07-16, Purple,7.0,5,5,Mix-Colour,9,5,yellow,0.0,,"good vigor,hole heart",,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00225,CIP316361.078,78,5,6,1,10,5.0,1.0,7.0,5.0,3.0,2025-07-22,White ,7.0,7,7,Light yellow,5,5,creme,0.0,,"high yield,hole heart",,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00226,CIP316384.065,128,6,6,1,8,3.0,1.0,5.0,5.0,3.0,2025-07-22,White ,5.0,5,3,Yellow,5,5,yellow,0.0,,"erect plants,less yield",,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00227,CIP316353.129,46,7,6,1,10,5.0,2.0,7.0,7.0,5.0,2025-07-16, Light purple,8.0,7,5,Mix-Colour,5,5,creme,0.0,,"high vigor, uniformity,cracks,hole heart",,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00228,CIP316365.001,102,8,6,1,4,3.0,2.0,5.0,3.0,0.0,,,3.0,5,5,Mix-Colour,5,5,yellow,0.0,,very late emerge,,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00229,CIP316364.043,106,9,6,1,10,3.0,2.0,5.0,5.0,0.0,,,4.0,5,5,Light yellow,5,5,creme,0.0,,"late emerge, small plants,hole heart",,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00230,CIP316358.069,57,10,6,1,10,7.0,1.0,7.0,5.0,5.0,2025-07-01, Purple,6.0,7,7,Light red,5,7,yellow,0.0,,"erect plants, appears shangi,its shangi",,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00231,CIP316357.016,1,11,6,1,9,5.0,2.0,7.0,7.0,5.0,2025-07-07,White ,7.0,7,5,Light yellow,7,7,yellow,0.0,,"good vigor, uniform,nice shape round",,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00232,CIP316357.016,1,12,6,1,10,5.0,2.0,7.0,5.0,5.0,2025-07-07,White ,7.0,7,5,Light yellow,7,5,yellow,0.0,,"uniform,mul formed,hole heart",,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00233,CIP316358.070,58,13,6,1,10,5.0,2.0,5.0,5.0,5.0,2025-07-16,White ,6.0,7,5,Light yellow,5,5,light yellow,0.0,,"leaf roll virus,hole heart",,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00234,Unica,14,14,6,1,10,5.0,2.0,7.0,5.0,0.0,,,7.0,5,9,Red,7,9,yellow,0.0,,like,,1.0,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00235,CIP316359.036,62,15,6,1,8,5.0,2.0,5.0,3.0,0.0,,,4.0,5,5,Yellow,5,5,yellow,0.0,,"weak plants, crinkled leaves",,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00236,CIP316367.120,123,16,6,1,9,3.0,2.0,7.0,3.0,0.0,,,4.0,5,5,Mix-Colour,5,5,yellow,0.0,,"Late emergence, small plants",,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00237,CIP316365.001,116,17,6,1,9,3.0,2.0,5.0,3.0,3.0,2025-07-29, Purple,4.0,5,3,Mix-Colour,3,3,yellow,0.0,,"late emerge, small plants,cracks,hole heart",,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00238,CIP316362.019,83,18,6,1,9,3.0,2.0,3.0,5.0,0.0,,,4.0,5,5,Light yellow,5,5,yellow,0.0,,"late emerge, small plants",,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00239,CIP316363.081,95,19,6,1,10,3.0,2.0,7.0,3.0,3.0,2025-07-29, Light purple,4.0,5,3,Light red,5,5,creme,0.0,,"small plants, leaf roll",,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00240,CIP316348.047,15,20,6,1,7,3.0,2.0,5.0,3.0,0.0,,,4.0,5,3,Light yellow,7,5,yellow,0.0,,"late emerge, small plants,less yield",,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00241,CIP316364.033,104,21,6,1,10,5.0,2.0,5.0,5.0,5.0,2025-07-16, Purple,6.0,5,5,Mix-Colour,5,5,yellow,0.0,,,,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00242,CIP316376.020,127,22,6,1,10,5.0,1.0,7.0,5.0,5.0,2025-07-07,White ,6.0,5,5,Light yellow,5,5,dark yellow,0.0,,leaf roll,,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00243,CIP316353.048,40,23,6,1,10,7.0,2.0,5.0,7.0,5.0,2025-07-01, Purple,7.0,7,7,Mix-Colour,7,7,yellow,0.0,,"fast growth, good vigor,rough skin",,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00244,CIP316363.010,6,24,6,1,10,5.0,1.0,7.0,5.0,3.0,2025-07-22, Light purple,5.0,5,7,Light red,7,7,light yellow,0.0,,"severe leaf roll virus,nice",,1.0,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00245,CIP316358.029,55,25,6,1,10,5.0,2.0,5.0,5.0,5.0,2025-07-16,White ,5.0,7,5,Dark yellow,5,5,yellow,20.0,,"late blight, leaf roll,eyes deep,pink eyes",,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00246,CIP316364.033,3,26,6,1,9,5.0,2.0,7.0,7.0,0.0,,,6.0,5,5,Mix-Colour,5,5,yellow,0.0,,,,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00247,CIP316358.138,12,27,6,1,10,5.0,2.0,5.0,7.0,0.0,,,6.0,5,7,Yellow,5,5,yellow,0.0,,,,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00248,CIP316359.026,61,28,6,1,10,5.0,1.0,7.0,7.0,5.0,2025-07-07,White ,7.0,7,5,Light yellow,5,7,creme,0.0,,"good vigor,hole heart",,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00249,CIP316349.031,20,29,6,1,10,5.0,2.0,5.0,5.0,3.0,2025-07-22,White ,5.0,5,5,Light red,7,5,yellow,0.0,,leaf roll,,1.0,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00250,CIP316354.165,121,30,6,1,10,5.0,1.0,7.0,5.0,5.0,2025-07-16,White ,6.0,5,5,Dark yellow,5,5,yellow,0.0,,"erect plants,hole heart",,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00251,CIP316365.001,112,31,6,1,6,3.0,2.0,5.0,5.0,0.0,,,4.0,5,5,Mix-Colour,5,5,yellow,0.0,,"late emerge, small plants",,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00252,CIP316367.088,114,32,6,1,9,5.0,2.0,7.0,7.0,7.0,2025-07-01,White ,8.0,1,5,Light yellow,7,5,creme,0.0,,"bw 3 plants,hol3 heart",3.0,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00253,CIP316349.134,110,33,6,1,10,5.0,2.0,7.0,3.0,0.0,,,3.0,5,3,Light red,3,5,yellow,0.0,,"weak plants, leaf roll, leaves decolorized, blackleg",,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00254,CIP316364.033,128,34,6,1,10,5.0,2.0,5.0,7.0,3.0,2025-07-22, Purple,7.0,5,5,Mix-Colour,5,5,yellow,0.0,,good vigor,,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00255,Sagitta,130,35,6,1,6,3.0,2.0,5.0,5.0,0.0,,,4.0,3,7,Yellow,7,7,yellow,20.0,,"late blight, late emergence,nice but few tubers",,1.0,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00256,CIP316353.035,39,36,6,1,10,7.0,2.0,7.0,7.0,5.0,2025-07-01, Light purple,8.0,7,7,Mix-Colour,9,5,yellow,0.0,,"high vigor, fast growth,cracks,mulformed",,1.0,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00257,CIP312079.001,2,37,6,1,10,5.0,2.0,7.0,7.0,0.0,,,6.0,5,7,Yellow,7,5,yellow,0.0,,"good vigor,hole heart",,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00258,CIP316364.034,105,38,6,1,10,5.0,2.0,7.0,5.0,5.0,2025-07-01,White ,7.0,5,7,Light yellow,7,7,light yellow,0.0,,hole heart,,1.0,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00259,CIP316355.041,50,39,6,1,8,5.0,2.0,7.0,3.0,3.0,2025-07-16,White ,4.0,5,3,Light yellow,5,5,yellow,10.0,,"stunted growth, leaf roll , pvy",,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00260,CIP316361.135,82,40,6,1,10,5.0,2.0,7.0,5.0,3.0,2025-07-22,White ,6.0,5,5,Yellow,5,5,light yellow,0.0,,,,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00261,CIP316363.081,64,41,6,1,10,5.0,2.0,5.0,5.0,3.0,2025-07-22, Light purple,6.0,5,5,Light red,5,5,creme,5.0,,,,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00262,CIP316354.165,4,42,6,1,10,5.0,1.0,7.0,7.0,5.0,2025-07-01,White ,8.0,1,5,Yellow,5,5,dark yellow,0.0,,"good vigor, erect plants",,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00263,CIP316358.138,13,43,6,1,10,5.0,2.0,5.0,7.0,3.0,2025-07-22,White ,7.0,5,5,Yellow,5,5,yellow,0.0,,good vigor,,,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final
+KE25NJO-LBHT-IT01-00264,CIP316364.033,23,44,6,1,10,5.0,2.0,5.0,7.0,5.0,2025-07-16, Purple,8.0,7,7,Mix-Colour,5,7,yellow,0.0,,good vigor,,1.0,Njoro,LBHT,KE25NJO-LBHT-IT01_table-Final

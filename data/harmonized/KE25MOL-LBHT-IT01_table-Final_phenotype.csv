@@ -1,0 +1,265 @@
+plot,geno,entry,row,column,rep,ntp,npe,growth_speed,plant_height,plant_uniformity,plant_vigor,flowering,flowering_date,flower_colour,overall_impression,stem_number,tuber_appearance,skin_colour,tuber_size,tuber_uniformity,flesh_colour,late_blight_60_days,late_blight_90_days,notes,location,population,trial
+KE25MOL-LBHT-IT01-00001,CIP316363.094,97,1,1,1,10,10,5,2.0,5,5,3,2024-07-29,White ,6,5,7.0,Light yellow,5,5.0,multicolour,0,0,deep eyes,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00002,CIP316367.048,115,2,1,1,10,9,5,2.0,5,5,0,,,5,5,9.0,Mix-Colour,7,7.0,creme,0,0,pink eyes,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00003,CIP316367.103,122,3,1,1,10,8,3,2.0,5,3,0,,,5,3,7.0,Mix-Colour,5,5.0,yellow,0,0,,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00004,CIP316363.103,100,4,1,1,10,8,7,2.0,5,5,5,2024-07-01,White ,6,7,9.0,Mix-Colour,7,7.0,yellow,0,0,fast growth,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00005,CIP316357.016,1,5,1,1,10,10,5,1.0,7,5,7,2024-07-08,White ,6,5,7.0,Light yellow,5,7.0,yellow,0,0,erect plants,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00006,CIP312079.003,4,6,1,1,10,8,3,2.0,5,5,0,,,5,3,5.0,Light yellow,5,5.0,yellow,10,30,late blight,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00007,CIP316354.165,48,7,1,1,10,10,5,2.0,7,5,5,2024-07-21,White ,6,5,9.0,Light yellow,7,7.0,yellow,0,0,,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00008,CIP316349.032,21,8,1,1,10,9,3,2.0,7,3,0,,,3,1,3.0,Red,3,3.0,creme,0,0,"late emerge, emerging plants",Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00009,CIP312079.004,5,9,1,1,10,10,5,3.0,7,5,0,,,6,7,9.0,Mix-Colour,7,7.0,yellow,5,20,,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00010,CIP312079.008,9,10,1,1,10,10,3,2.0,5,3,0,,,5,7,5.0,Mix-Colour,3,5.0,creme,30,30,"late blight, slow growtg",Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00011,CIP316353.048,40,11,1,1,10,10,5,2.0,7,5,5,2024-07-08, Purple,6,7,7.0,Mix-Colour,5,7.0,light yellow,5,5,,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00012,CIP316349.134,29,12,1,1,10,9,5,2.0,5,3,0,,,4,7,3.0,Red,3,5.0,yellow,0,15,"leaf roll virus, weak plants",Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00013,CIP316363.081,95,13,1,1,10,8,3,2.0,5,5,0,,,4,3,5.0,Mix-Colour,5,5.0,creme,5,0,,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00014,CIP316349.006,17,14,1,1,10,10,3,2.0,3,3,0,,,4,3,5.0,Light yellow,5,7.0,yellow,0,0,slow growth,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00015,CIP316357.070,54,15,1,1,10,8,5,1.0,3,5,3,2024-07-29,White ,5,5,7.0,Light yellow,5,5.0,creme,30,30,late blight,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00016,CIP316367.087,118,16,1,1,10,10,3,1.0,7,5,0,,,5,7,7.0,Light yellow,5,5.0,yellow,0,0,erect plants,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00017,CIP316352.008,32,17,1,1,10,9,5,2.0,7,5,3,2024-07-29,White ,5,5,5.0,Light yellow,5,5.0,yellow,0,5,"leaf roll virus, ",Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00018,CIP316353.019,36,18,1,1,10,10,7,2.0,7,9,5,2024-07-01, Purple,8,7,9.0,Mix-Colour,7,7.0,yellow,0,0,good vigor,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00019,CIP316363.058,92,19,1,1,10,7,3,2.0,5,3,0,,,3,3,5.0,Light yellow,3,3.0,yellow,0,0,emrging small plants,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00020,CIP316366.132,113,20,1,1,10,9,3,,5,3,3,2024-07-29,White ,5,5,5.0,Light yellow,5,5.0,yellow,0,0,,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00021,CIP316349.076,25,21,1,1,10,10,7,2.0,7,7,5,2024-07-01, Purple,7,7,9.0,Mix-Colour,9,9.0,creme,0,0,good,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00022,CIP316364.033,104,22,1,1,10,9,5,2.0,5,5,3,2024-07-29, Purple,5,5,5.0,Mix-Colour,5,5.0,dark yellow,0,0,,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00023,CIP316357.067,53,23,1,1,10,9,3,2.0,5,3,0,,,4,3,5.0,Light yellow,5,5.0,yellow,0,0,slow growth,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00024,CIP312079.001,2,24,1,1,10,10,5,3.0,7,7,0,,,7,5,7.0,Light yellow,7,5.0,yellow,0,5,shiny leaves,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00025,CIP316363.048,89,1,2,1,10,8,3,2.0,5,5,0,,,5,5,5.0,Mix-Colour,5,5.0,light yellow,0,30,crinkled leaves,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00026,CIP316361.085,79,2,2,1,10,10,5,2.0,5,5,5,2024-07-20,White ,6,5,7.0,Light red,5,5.0,light yellow,0,0,red strip,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00027,CIP316348.096,16,3,2,1,10,10,3,1.0,5,3,0,,,5,3,5.0,Light yellow,3,5.0,dark yellow,0,0,erect plants,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00028,CIP316371.148,101,4,2,1,10,9,5,1.0,7,5,3,2025-07-20, Purple,6,5,7.0,Red,5,9.0,light yellow,0,0,"erect plants, like sherekea,red strip",Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00029,CIP316354.164,47,5,2,1,10,10,5,1.0,7,5,3,2024-07-29,White ,6,5,7.0,Yellow,5,5.0,yellow,0,0,erect plants,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00030,CIP316359.061,63,6,2,1,10,10,3,1.0,7,3,0,,,5,3,3.0,Light yellow,5,5.0,yellow,20,5,erect plants,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00031,CIP316348.047,15,7,2,1,10,10,3,2.0,3,3,0,,,3,3,1.0,Light yellow,5,3.0,yellow,0,0,"poor late emerge, ",Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00032,CIP316358.070,58,8,2,1,10,8,5,1.0,7,5,3,2024-07-29,White ,6,5,7.0,Light yellow,5,7.0,creme,0,10,short plants,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00033,CIP316353.048,40,9,2,1,10,8,5,2.0,5,5,3,2024-07-29, Purple,5,7,5.0,Mix-Colour,5,5.0,light yellow,0,5,low yield,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00034,CIP316361.037,75,10,2,1,10,10,7,2.0,9,5,7,2024-07-08,White ,7,7,9.0,Yellow,7,7.0,dark yellow,0,5,"average,pinkish eyes",Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00035,CIP316353.058,42,11,2,1,10,10,5,2.0,7,5,5,2025-07-20,White ,6,7,7.0,Light yellow,7,7.0,creme,0,10,nice tuber size,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00036,CIP316364.043,106,12,2,1,10,9,3,2.0,3,3,0,,,4,3,3.0,Light yellow,3,5.0,creme,0,0,"late emerge, small emerging plants,bad",Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00037,CIP316361.069,77,13,2,1,10,9,3,1.0,5,3,0,,,3,1,7.0,Light yellow,5,5.0,light yellow,0,0,emerging erect plants ,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00038,CIP312079.003,4,14,2,1,10,7,3,3.0,3,3,0,,,3,5,5.0,Yellow,5,5.0,yellow,30,20,"late blight, late emerge",Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00039,CIP312079.012,13,15,2,1,10,10,3,2.0,5,5,0,,,5,5,7.0,Mix-Colour,5,5.0,yellow,0,0,,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00040,Shangi,85,16,2,1,10,10,7,2.0,7,5,1,,,7,7,9.0,Light red,5,9.0,yellow,0,30,"fast growth,Tubers like shangi",Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00041,CIP316349.030,19,17,2,1,10,10,3,2.0,5,3,0,,,4,3,5.0,Mix-Colour,3,5.0,light yellow,0,10,late emerge,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00042,CIP316361.078,124,18,2,1,10,10,5,2.0,7,7,5,2025-07-20,White ,7,5,7.0,Light yellow,5,7.0,creme,0,0,good vigor,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00043,CIP316363.056,91,19,2,1,10,9,5,1.0,5,5,3,2025-07-20, Purple,6,5,7.0,Mix-Colour,5,7.0,light yellow,0,0,erect plants,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00044,CIP316353.128,45,20,2,1,10,9,3,1.0,5,3,0,,,5,3,3.0,Yellow,3,3.0,yellow,0,0,"erect, small plants,bad yield",Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00045,CIP316376.014,110,21,2,1,10,10,5,2.0,5,5,3,2024-07-29,White ,6,5,5.0,Yellow,5,5.0,yellow,5,10,bad low yield,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00046,CIP316349.066,23,22,2,1,10,10,5,2.0,7,5,0,,,6,5,7.0,Mix-Colour,5,5.0,dark yellow,0,20,"crinkled leaves,rough skin,",Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00047,CIP316361.078,78,23,2,1,10,10,5,2.0,7,7,5,2024-07-08,White ,7,7,7.0,Light yellow,5,7.0,creme,0,0,good vigor,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00048,CIP316349.040,22,24,2,1,10,10,5,2.0,7,7,0,,,7,7,7.0,Yellow,5,7.0,yellow,0,10,"good vigor,nice tuber",Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00049,CIP312079.008,9,1,3,1,10,10,3,2.0,5,3,0,,,4,5,5.0,Mix-Colour,5,5.0,creme,0,0,slow growth,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00050,CIP316359.061,63,2,3,1,10,10,3,2.0,7,5,0,,,6,5,7.0,Light yellow,5,7.0,yellow,0,0,,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00051,Sagitta,132,3,3,1,10,8,3,2.0,5,5,0,,,5,5,7.0,Yellow,5,5.0,yellow,10,50,"slow growth, late blight",Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00052,CIP316376.020,14,4,3,1,10,10,5,1.0,7,5,3,2024-07-29,White ,6,5,5.0,Mix-Colour,5,5.0,yellow,0,0,erect plants,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00053,CIP312079.002,3,5,3,1,10,10,3,2.0,5,5,0,,,4,3,7.0,Mix-Colour,5,5.0,yellow,0,0,"slow growth, small plants",Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00054,CIP316359.117,65,6,3,1,10,8,3,2.0,5,5,0,,,5,5,7.0,Mix-Colour,5,5.0,yellow,0,0,slow growth,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00055,CIP316361.022,70,7,3,1,10,10,5,2.0,5,5,3,2024-07-29,White ,6,5,7.0,Light yellow,5,5.0,creme,0,0,,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00056,CIP316355.037,49,8,3,1,10,8,5,1.0,7,5,5,2025-07-20,White ,6,7,3.0,Yellow,5,5.0,dark yellow,0,5,"leaf roll virus all plants, early blight",Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00057,CIP316359.004,60,9,3,1,10,10,5,1.0,7,5,5,2025-07-20,White ,6,5,7.0,Yellow,5,5.0,creme,0,0,erect plants,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00058,CIP316364.012,103,10,3,1,10,6,3,2.0,3,3,0,,,3,3,7.0,Yellow,5,5.0,yellow,0,0,poor emerge,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00059,CIP316376.014,8,11,3,1,10,9,5,2.0,5,7,5,2025-07-20,White ,7,7,9.0,Yellow,5,7.0,yellow,0,0,nice yield,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00060,CIP316376.014,126,12,3,1,10,10,5,2.0,7,7,5,2025-07-20,White ,8,7,7.0,Yellow,5,7.0,yellow,0,5,excellent vigor,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00061,CIP316361.025,71,13,3,1,10,10,5,2.0,7,7,5,2025-07-20,White ,7,7,9.0,Yellow,9,7.0,yellow,0,0,excellent,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00062,CIP316361.135,82,14,3,1,10,9,5,1.0,5,5,3,2024-07-29,White ,6,5,5.0,Light yellow,5,7.0,yellow,0,0,,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00063,CIP316349.032,21,15,3,1,10,10,3,2.0,5,3,0,,,3,1,7.0,Red,3,3.0,creme,0,0,"late emerge, small emerging plants",Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00064,CIP316353.128,45,16,3,1,10,7,3,1.0,5,5,0,,,5,5,5.0,Light yellow,3,5.0,yellow,0,5,erect plants,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00065,CIP316358.029,55,17,3,1,10,10,7,3.0,7,7,1,,,7,7,9.0,Yellow,5,7.0,yellow,5,50,"good, fast growth, early blight,nice tuber size",Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00066,CIP316363.055,90,18,3,1,10,9,5,2.0,5,5,3,2024-07-29, Purple,5,3,7.0,Mix-Colour,5,5.0,yellow,0,0,,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00067,CIP316361.035,74,19,3,1,10,10,5,2.0,5,5,5,2024-07-08,White ,6,5,5.0,Light red,5,5.0,yellow,0,0,short plants,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00068,CIP312079.006,7,20,3,1,10,10,5,3.0,7,5,0,,,7,7,9.0,Yellow,7,7.0,yellow,0,30,uniform,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00069,CIP316361.069,77,21,3,1,10,9,3,2.0,7,3,0,,,4,1,3.0,Light yellow,3,1.0,light yellow,0,0,"very late emerge, ",Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00070,Unica,131,22,3,1,10,10,5,2.0,7,5,0,,,6,5,7.0,Red,5,5.0,light yellow,0,0,uniform,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00071,CIP316363.058,92,23,3,1,10,7,3,2.0,3,3,0,,,3,3,5.0,Yellow,5,5.0,yellow,10,30,poor development,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00072,CIP316361.029,72,24,3,1,10,8,3,2.0,5,3,0,,,3,3,7.0,Mix-Colour,3,5.0,creme,0,0,very late emerge,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00073,Shangi,57,1,4,1,10,9,7,2.0,5,5,5,2024-07-01, Purple,6,7,9.0,Light red,7,7.0,yellow,10,30,"fast growth, looks shangi,its shangi",Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00074,CIP312079.004,5,2,4,1,10,10,5,3.0,5,7,0,,,7,7,9.0,Mix-Colour,7,7.0,dark yellow,0,10,good vigor,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00075,CIP316361.037,75,3,4,1,10,10,7,2.0,7,9,7,2024-07-01,White ,8,7,9.0,Yellow,7,7.0,dark yellow,0,5,"excelent vigor,nice",Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00076,CIP316362.019,83,4,4,1,10,10,3,2.0,5,3,0,,,5,5,7.0,Mix-Colour,5,5.0,light yellow,0,0,slow growth,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00077,CIP316363.094,97,5,4,1,10,10,3,2.0,5,5,0,,,5,5,7.0,Yellow,5,5.0,yellow,0,0,slow growth,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00078,CIP316349.140,30,6,4,1,10,9,3,2.0,5,3,0,,,4,1,5.0,Light yellow,3,5.0,yellow,0,0,late emerge,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00079,CIP316360.145,68,7,4,1,10,10,5,2.0,7,7,5,2024-07-08,White ,7,7,7.0,Light yellow,5,5.0,yellow,0,5,,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00080,CIP316371.148,125,8,4,1,10,9,5,1.0,5,7,5,2024-07-08, Light purple,7,5,7.0,Red,7,9.0,light yellow,0,0,"erect plants,looks sherekean striped red",Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00081,CIP312079.006,7,9,4,1,10,10,7,3.0,7,5,1,,,7,7,7.0,Yellow,5,7.0,yellow,0,50,"fast growth, late blight",Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00082,CIP316353.054,41,10,4,1,10,10,5,1.0,7,5,5,2024-07-08,White ,6,7,7.0,Light yellow,5,5.0,light yellow,0,0,"erect plants, uniform",Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00083,CIP316363.010,84,11,4,1,10,10,5,2.0,7,5,0,,,6,7,7.0,Mix-Colour,5,7.0,yellow,5,30,severe leaf roll virus,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00084,CIP312079.010,11,12,4,1,10,10,5,2.0,5,5,3,2024-07-29,White ,6,5,7.0,Mix-Colour,5,5.0,light yellow,50,20,late light ,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00085,CIP316349.141,31,13,4,1,10,9,5,2.0,7,5,5,2024-07-08, Purple,6,5,5.0,Mix-Colour,5,5.0,creme,0,0,"crinkled leaves,cracks,rough skin",Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00086,Sherekea,129,14,4,1,10,8,3,2.0,5,3,0,,,4,3,5.0,Red,3,5.0,light yellow,0,0,"late emerge, small plants",Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00087,CIP316363.096,99,15,4,1,10,7,3,,5,3,0,,,4,1,5.0,Light red,5,5.0,yellow,0,5,late emerge,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00088,CIP316353.035,39,16,4,1,10,10,5,2.0,7,7,7,2024-07-08, Light purple,7,7,7.0,Mix-Colour,9,7.0,yellow,0,5," good vigor, early blight,cracks skin",Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00089,CIP316349.128,28,17,4,1,10,6,3,1.0,5,3,0,,,3,1,5.0,Red,5,5.0,yellow,0,0,"weak, emerging, erect plants",Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00090,CIP316367.048,115,18,4,1,10,7,3,2.0,5,5,0,,,5,5,7.0,Mix-Colour,5,5.0,yellow,0,5,,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00091,CIP316364.043,106,19,4,1,10,6,3,2.0,5,3,0,,,3,1,5.0,Light yellow,3,3.0,white,0,0,late emerge,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00092,CIP312079.012,13,20,4,1,10,9,3,2.0,5,3,0,,,4,1,7.0,Mix-Colour,5,7.0,yellow,0,0,"late, poor emerge",Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00093,CIP316361.135,82,21,4,1,10,10,3,2.0,5,5,0,,,5,5,5.0,Light yellow,5,5.0,light yellow,0,0,,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00094,CIP316365.001,107,22,4,1,10,10,3,2.0,5,3,0,,,5,5,5.0,Mix-Colour,5,5.0,yellow,0,0,,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00095,CIP316363.029,87,23,4,1,10,10,3,2.0,7,5,0,,,5,5,9.0,Mix-Colour,5,7.0,yellow,0,30,short plants,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00096,CIP312079.011,12,24,4,1,10,9,3,2.0,5,5,0,,,5,5,7.0,Purple,5,5.0,creme,15,20,slow growth,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00097,CIP316364.033,64,1,5,1,10,8,3,2.0,7,3,0,,,4,3,5.0,Light yellow,1,1.0,yellow,0,0,"emerging plants,bad",Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00098,CIP316361.094,14,2,5,1,10,10,3,2.0,5,5,0,,,5,5,5.0,Light yellow,5,5.0,light yellow,0,0,,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00099,CIP316361.030,73,3,5,1,10,10,5,2.0,7,9,5,2024-07-08,White ,8,5,9.0,Yellow,7,7.0,creme,0,0,excellent vigor,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00100,CIP316361.045,76,4,5,1,10,10,5,1.0,7,3,3,2024-07-29,White ,5,7,5.0,Light yellow,5,5.0,yellow,5,10,"erect plants, short plants",Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00101,CIP316353.026,37,5,5,1,10,10,5,2.0,7,5,0,,,6,7,7.0,Yellow,5,7.0,dark yellow,0,0,,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00102,CIP316364.033,104,6,5,1,10,8,3,2.0,5,5,0,,,5,5,7.0,Mix-Colour,5,5.0,yellow,0,0,,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00103,CIP316361.085,79,7,5,1,10,9,5,2.0,5,5,5,2024-07-08,White ,6,7,9.0,Light red,5,7.0,creme,0,0,nice tuber size,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00104,CIP316376.014,124,8,5,1,10,10,5,2.0,7,7,5,2025-07-20,White ,7,7,7.0,Yellow,5,7.0,yellow,0,30,good vigor,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00105,CIP316361.094,80,9,5,1,10,9,5,2.0,7,5,3,2024-07-29,White ,6,5,7.0,Light yellow,5,7.0,light yellow,0,0,,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00106,CIP316357.070,54,10,5,1,10,8,5,1.0,5,5,3,2024-07-29,White ,5,5,5.0,Yellow,5,5.0,yellow,0,0,erect plants,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00107,CIP316384.065,128,11,5,1,10,7,3,1.0,5,3,0,,,3,1,3.0,Light yellow,3,3.0,yellow,0,0,"emerging , erect",Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00108,CIP316361.010,69,12,5,1,10,9,5,2.0,5,3,3,2024-07-29,White ,4,5,5.0,Light yellow,5,5.0,light yellow,0,0,hole heart,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00109,CIP316349.017,18,13,5,1,10,9,5,2.0,5,5,3,2024-07-29, Purple,6,5,7.0,Mix-Colour,5,7.0,yellow,0,20,,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00110,CIP316364.034,105,14,5,1,10,10,5,2.0,7,7,7,2024-07-08,White ,7,5,7.0,Light yellow,5,5.0,creme,0,0,good vigor,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00111,CIP316353.104,44,15,5,1,10,10,5,1.0,7,5,7,2024-07-08,White ,6,7,7.0,Light yellow,5,7.0,creme,0,5,erect plants,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00112,CIP316360.018,67,16,5,1,10,9,3,2.0,5,5,0,,,5,5,5.0,Mix-Colour,5,5.0,dark yellow,0,0,,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00113,CIP316363.010,84,17,5,1,10,10,5,2.0,7,5,0,,,6,5,9.0,Mix-Colour,5,9.0,light yellow,0,5,severe leaf roll,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00114,CIP312079.002,3,18,5,1,10,1,3,2.0,3,3,0,,,3,1,5.0,Mix-Colour,3,3.0,yellow,0,0,"late emerge, small emerging plants",Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00115,CIP316365.058,109,19,5,1,10,8,3,2.0,5,3,0,,,4,3,5.0,Light yellow,5,5.0,yellow,0,0,slow growth,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00116,CIP316363.033,88,20,5,1,10,5,3,2.0,3,3,0,,,2,1,1.0,Red,1,1.0,yellow,0,10,"poor,bad yield",Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00117,CIP316357.067,53,21,5,1,10,7,5,2.0,5,5,3,2024-07-29, Purple,6,5,7.0,Yellow,5,5.0,yellow,0,5,,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00118,CIP316349.031,120,22,5,1,10,10,5,2.0,7,5,0,,,6,5,7.0,Mix-Colour,5,7.0,yellow,0,5,uniform,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00119,CIP316349.140,30,23,5,1,10,8,3,2.0,3,3,0,,,4,3,5.0,Yellow,5,5.0,light yellow,0,0,weak plants,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00120,Shangi,57,24,5,1,10,10,7,2.0,7,7,5,2024-07-01, Purple,7,7,9.0,Light red,5,7.0,yellow,10,50,"good vigor,, looks shangi filler",Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00121,CIP316353.030,38,1,6,1,10,10,3,2.0,5,3,0,,,5,5,5.0,Light yellow,5,5.0,creme,0,0,,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00122,CIP316376.020,127,2,6,1,10,10,5,1.0,5,5,3,2024-07-29,,6,5,7.0,Light red,5,5.0,yellow,0,0,erect plants,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00123,CIP316367.120,123,3,6,1,10,10,3,2.0,7,3,0,,,4,3,5.0,Mix-Colour,5,5.0,light yellow,0,0,emerging plants,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00124,CIP312079.011,12,4,6,1,10,9,5,2.0,5,5,0,,,5,5,7.0,Purple,5,5.0,creme,15,30,"late blight,",Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00125,CIP316353.035,39,5,6,1,10,10,7,2.0,7,7,5,2024-07-01, Purple,7,7,7.0,Mix-Colour,9,5.0,yellow,0,10,"good vigor, looks shangi, confirmed as not shangi",Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00126,CIP316363.065,93,6,6,1,10,10,5,2.0,7,7,5,2024-07-08, Light purple,7,5,7.0,Mix-Colour,5,7.0,yellow,0,0,,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00127,CIP316355.037,49,7,6,1,10,9,5,1.0,7,5,5,2025-07-20,White ,1,5,7.0,Yellow,5,7.0,dark yellow,0,5,"leaf roll, early blight",Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00128,CIP316353.129,46,8,6,1,10,10,5,2.0,7,7,3,2024-07-29, Purple,8,5,9.0,Mix-Colour,7,7.0,white,0,0,excellent vigor,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00129,CIP316354.164,47,9,6,1,10,10,5,1.0,7,5,3,2024-07-29,White ,6,5,7.0,Yellow,5,7.0,yellow,0,0,erect plants,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00130,CIP316365.058,109,10,6,1,10,9,3,2.0,7,3,0,,,4,3,5.0,Yellow,5,5.0,yellow,0,0,emerging plants,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00131,CIP316359.117,65,11,6,1,10,10,3,3.0,5,3,0,,,4,3,7.0,Mix-Colour,5,5.0,light yellow,0,0,emerging plants,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00132,CIP316352.076,34,12,6,1,10,10,5,1.0,7,3,3,2024-07-29,White ,6,5,5.0,Light red,5,5.0,light yellow,0,0,"erect plants, pvy",Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00133,CIP316361.045,76,13,6,1,10,10,3,1.0,7,3,0,,,5,5,7.0,Yellow,5,5.0,yellow,0,5,erect plants,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00134,CIP316364.010,102,14,6,1,10,10,5,1.0,5,5,3,2024-07-29,White ,6,5,7.0,Light yellow,5,7.0,yellow,0,0,"erect plants,pinkish eyes",Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00135,CIP316361.108,81,15,6,1,10,7,3,2.0,3,1,0,,,2,1,3.0,Light yellow,3,3.0,creme,0,20,poor plants,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00136,CIP316352.027,33,16,6,1,10,10,7,2.0,7,5,1,,,7,7,7.0,Light yellow,5,7.0,light yellow,0,10,fast growth,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00137,CIP316366.132,113,17,6,1,10,10,3,2.0,7,3,0,,,4,3,5.0,Light yellow,5,5.0,yellow,0,0,emerging plants,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00138,CIP316349.031,20,18,6,1,10,10,3,2.0,5,5,0,,,6,3,7.0,Mix-Colour,5,7.0,yellow,0,0,,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00139,CIP316363.081,95,19,6,1,10,10,3,2.0,5,3,0,,,4,1,5.0,Mix-Colour,3,7.0,creme,0,0,emerging plants,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00140,CIP316358.055,56,20,6,1,10,6,3,2.0,3,3,0,,,2,1,5.0,Light yellow,5,5.0,yellow,0,30,weak and small plants,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00141,CIP316361.010,69,21,6,1,10,10,5,2.0,7,5,0,,,6,5,7.0,Yellow,5,7.0,yellow,0,0,,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00142,CIP316349.031,19,22,6,1,10,10,5,2.0,7,5,0,,,5,7,7.0,Mix-Colour,5,5.0,yellow,0,10,leaf roll ,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00143,CIP316348.096,16,23,6,1,10,8,3,1.0,5,3,0,,,5,3,5.0,Yellow,5,5.0,yellow,0,0,erect plants,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00144,CIP316349.031,116,24,6,1,10,10,5,2.0,7,5,0,,,6,5,9.0,Mix-Colour,5,7.0,yellow,0,10,,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00145,CIP316358.070,58,1,7,1,10,10,5,2.0,7,7,5,2025-07-20,White ,7,7,7.0,Light yellow,5,7.0,creme,0,0,,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00146,CIP316363.095,98,2,7,1,10,8,3,1.0,5,3,0,,,4,3,3.0,Yellow,5,5.0,yellow,0,0,erect plants,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00147,CIP316349.070,24,3,7,1,10,9,5,2.0,7,5,3,2025-07-20,White ,6,7,7.0,Yellow,5,7.0,yellow,0,5,crinkled leaves,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00148,CIP316353.058,42,4,7,1,10,10,5,2.0,7,5,3,2024-07-29,White ,6,7,7.0,Light yellow,5,5.0,creme,0,0,,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00149,CIP316361.022,70,5,7,1,10,10,5,2.0,5,5,5,2025-07-20,White ,6,5,7.0,Light yellow,5,7.0,creme,0,0,,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00150,CIP316359.151,66,6,7,1,10,10,3,1.0,5,5,0,,,6,5,7.0,Yellow,5,5.0,dark yellow,0,0,erect plants,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00151,CIP316366.015,111,7,7,1,10,9,5,2.0,5,5,0,,,5,5,9.0,Mix-Colour,7,7.0,creme,0,0,check looks wanjiku tubers,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00152,CIP316363.069,94,8,7,1,10,9,5,1.0,5,5,5,2025-07-20, Light purple,6,5,9.0,Mix-Colour,7,7.0,light yellow,0,0,leaf roll,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00153,CIP316363.028,86,9,7,1,10,9,3,2.0,5,3,0,,,5,3,7.0,Light red,5,5.0,creme,0,0,crinkled leaves,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00154,CIP316357.059,52,10,7,1,10,10,5,1.0,7,5,5,2025-07-20,White ,6,5,7.0,Yellow,7,5.0,creme,0,0,"erect, short plants",Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00155,CIP316349.076,25,11,7,1,10,10,5,2.0,7,5,5,2025-07-20, Purple,6,5,9.0,Light red,9,7.0,creme,0,0,nice tuber size,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00156,CIP316361.030,73,12,7,1,10,10,5,3.0,7,7,5,2024-07-20,White ,7,5,9.0,Light yellow,5,7.0,creme,0,0,good vigor,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00157,CIP316349.128,28,13,7,1,10,6,3,1.0,5,3,0,,,4,3,5.0,Red,5,5.0,yellow,0,0,"erect, weak , small plants",Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00158,CIP316361.035,74,14,7,1,10,10,5,2.0,5,5,3,2024-07-29,White ,5,5,5.0,Light red,5,5.0,yellow,0,0,erect plants,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00159,CIP316376.014,114,15,7,1,10,10,5,2.0,7,7,5,2025-07-20,White ,7,7,5.0,Yellow,5,7.0,dark yellow,0,5,good vigor,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00160,CIP312079.009,10,16,7,1,10,9,5,3.0,5,3,3,2024-07-29,White ,5,5,7.0,Yellow,5,5.0,yellow,70,60,severe late blight,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00161,CIP316349.102,26,17,7,1,10,10,5,2.0,5,5,0,,,6,5,7.0,Mix-Colour,5,5.0,creme,0,0,,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00162,CIP316371.148,116,18,7,1,10,10,5,1.0,7,5,7,2024-07-08, Light purple,7,5,9.0,Red,7,7.0,yellow,0,0,"erect plants,resymbol sherekea ,red striped flesh",Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00163,CIP316358.138,59,19,7,1,10,4,3,1.0,3,3,0,,,3,1,7.0,Light yellow,5,5.0,light yellow,0,0,"4 s,mall plants",Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00164,CIP316353.019,36,20,7,1,10,10,7,2.0,7,9,5,2024-07-01, Purple,9,7,9.0,Mix-Colour,9,9.0,light yellow,0,0,"perfect , vigor , uniform,tuber nice",Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00165,CIP316365.001,107,21,7,1,10,9,3,2.0,5,3,0,,,5,5,5.0,Mix-Colour,5,5.0,yellow,0,0,,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00166,CIP316352.027,33,22,7,1,10,10,5,2.0,7,7,5,2024-07-08,White ,7,7,7.0,Yellow,5,7.0,light yellow,0,10,"lodging plants,nice tubers",Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00167,CIP316361.037,121,23,7,1,10,10,5,2.0,7,7,7,2024-07-08,White ,8,7,7.0,Yellow,7,7.0,dark yellow,0,0,excellent vigor,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00168,CIP316353.104,44,24,7,1,10,10,7,1.0,7,7,7,2024-07-01,White ,7,7,7.0,Light red,7,5.0,creme,5,10,excellent vigor,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00169,CIP316355.041,50,1,8,1,10,10,5,2.0,5,3,3,2025-07-20,White ,5,7,5.0,Yellow,3,5.0,yellow,0,20,severe leaf roll,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00170,CIP316367.120,123,2,8,1,10,10,3,2.0,5,3,0,,,5,5,7.0,Mix-Colour,5,5.0,yellow,0,0,slow growth,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00171,CIP316357.016,1,3,8,1,10,9,5,1.0,7,5,5,2025-07-20,White ,6,5,7.0,Light yellow,5,7.0,yellow,0,0,"leaf roll, erect plants",Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00172,CIP316349.006,17,4,8,1,10,9,3,2.0,5,3,0,,,4,3,3.0,Yellow,3,5.0,yellow,0,0,emerging plants,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00173,CIP316358.138,59,5,8,1,10,2,3,2.0,5,3,0,,,2,1,1.0,Light yellow,1,1.0,yellow,0,0,2 emerging plants,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00174,CIP316376.014,94,6,8,1,10,10,5,2.0,5,5,5,2024-07-08,White ,6,5,7.0,Yellow,5,7.0,yellow,5,10,,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00175,CIP316358.055,56,7,8,1,10,10,3,2.0,5,5,0,,,4,5,7.0,Yellow,7,7.0,yellow,0,30,slow growth,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00176,CIP316359.026,61,8,8,1,10,10,5,2.0,5,5,3,2024-07-29,White ,6,5,5.0,Light yellow,5,5.0,yellow,0,0,,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00177,CIP316357.059,52,9,8,1,10,8,5,1.0,7,7,5,2024-07-08,White ,7,5,7.0,Light yellow,7,7.0,creme,0,0,good vigor,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00178,CIP316359.036,62,10,8,1,10,8,5,2.0,5,5,3,2024-07-29, Purple,6,5,7.0,Mix-Colour,5,7.0,yellow,0,0,,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00179,CIP316349.031,20,11,8,1,10,8,5,2.0,5,3,0,,,5,5,7.0,Mix-Colour,5,7.0,yellow,0,0,,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00180,CIP316363.103,100,12,8,1,10,10,5,2.0,7,5,0,,,7,5,9.0,Mix-Colour,7,7.0,yellow,0,0,"nice tuber size,like wanjiku",Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00181,CIP316366.015,111,13,8,1,10,6,3,2.0,5,3,0,,,4,1,7.0,Mix-Colour,5,5.0,creme,0,0,late emerge,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00182,Shangi,85,14,8,1,10,10,7,2.0,7,7,5,2024-07-01, Purple,7,7,9.0,Light red,7,9.0,yellow,0,10,"good vigor, looks shangi,its shangi",Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00183,CIP316361.078,78,15,8,1,10,10,5,2.0,7,7,7,2024-07-08,White ,7,5,9.0,Yellow,7,7.0,creme,0,0,"good vigor, uniform",Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00184,CIP316361.029,72,16,8,1,10,10,3,2.0,5,3,0,,,4,3,7.0,Mix-Colour,5,7.0,creme,0,0,small  emerging plants,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00185,CIP316376.014,126,17,8,1,10,10,5,2.0,5,5,3,2024-07-29,White ,5,5,7.0,Yellow,5,7.0,yellow,0,10,slow growth,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00186,CIP316363.092,96,18,8,1,10,10,5,2.0,7,7,5,2025-07-20,White ,7,5,7.0,Light yellow,5,9.0,creme,0,0,"good vigor,alot of tuber",Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00187,CIP316349.031,120,19,8,1,10,10,5,2.0,7,5,0,,,6,5,7.0,Mix-Colour,5,7.0,yellow,0,5,like wajiku,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00188,CIP316356.023,51,20,8,1,10,6,5,2.0,5,3,3,2024-07-29, Purple,5,5,7.0,Mix-Colour,5,5.0,creme,0,0,short plants,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00189,CIP316349.121,27,21,8,1,10,10,5,2.0,5,5,3,2024-07-29,White ,6,5,7.0,Red,5,7.0,light yellow,0,10,resymbol sharekea,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00190,CIP316363.096,99,22,8,1,10,9,3,2.0,5,3,0,,,5,3,7.0,Red,5,5.0,yellow,0,0,late emerge,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00191,CIP316353.030,38,23,8,1,10,5,5,2.0,5,3,3,2024-07-29, Light purple,4,5,7.0,Yellow,5,5.0,creme,0,0,,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00192,CIP316366.044,112,24,8,1,10,9,3,2.0,5,5,0,,,5,3,7.0,Light yellow,5,5.0,creme,0,10,,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00193,CIP316363.095,98,1,9,1,10,9,3,1.0,5,3,0,,,5,3,7.0,Yellow,5,5.0,yellow,0,0,erect plants,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00194,CIP316364.012,6,2,9,1,10,8,3,2.0,5,5,0,,,5,3,7.0,Yellow,5,5.0,yellow,0,0,slow growth,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00195,CIP316364.033,8,3,9,1,10,10,5,2.0,7,5,3,2025-07-20, Purple,6,5,7.0,Mix-Colour,5,7.0,yellow,0,0,nice tubers,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00196,CIP316364.012,103,4,9,1,10,7,3,2.0,5,5,0,,,5,3,7.0,Light yellow,5,5.0,yellow,0,0,,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00197,Shangi,130,5,9,1,10,10,7,2.0,7,5,5,2024-07-01, Purple,7,7,9.0,Light red,5,7.0,yellow,10,10,average,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00198,CIP316366.044,112,6,9,1,10,10,5,2.0,5,5,0,,,6,7,,Light yellow,5,5.0,creme,0,5,,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00199,CIP316364.034,105,7,9,1,10,10,5,1.0,7,7,7,2024-07-08,White ,7,5,7.0,Yellow,7,7.0,creme,30,0,"good vigor, erect",Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00200,CIP316352.008,32,8,9,1,10,10,5,2.0,7,5,5,2024-07-08,White ,6,5,7.0,Yellow,9,5.0,yellow,0,5,"severe leaf roll ,holeheart",Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00201,CIP316352.076,34,9,9,1,10,10,5,1.0,5,5,3,2024-07-29,White ,6,5,7.0,Light yellow,5,5.0,light yellow,0,0,"crinkled leaves, erect plants,Tubers like kenyampya,pink eyes",Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00202,CIP312079.009,10,10,9,1,10,9,5,3.0,5,5,3,2024-07-29,White ,6,5,7.0,Yellow,5,7.0,yellow,5,5,broad leaves,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00203,CIP316349.031,108,11,9,1,10,10,5,2.0,7,5,0,,,6,7,7.0,Mix-Colour,5,7.0,yellow,30,20,"late blight, leaf roll",Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00204,CIP316348.047,15,12,9,1,10,6,3,2.0,5,3,0,,,3,1,5.0,Light yellow,5,5.0,yellow,0,0,emerging plants,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00205,CIP316361.094,89,13,9,1,10,10,3,2.0,7,3,0,,,5,3,5.0,Yellow,5,5.0,creme,0,0,small emerging plants,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00206,CIP316361.094,80,14,9,1,10,10,3,2.0,7,3,0,,,6,3,7.0,Light yellow,5,5.0,creme,0,0,slow growth,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00207,CIP316361.025,71,15,9,1,10,9,5,2.0,7,5,5,2024-07-08,White ,6,5,9.0,Yellow,9,9.0,yellow,0,0,,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00208,CIP316363.029,87,16,9,1,10,9,5,2.0,7,5,3,2024-07-29, Purple,6,5,9.0,Mix-Colour,5,7.0,yellow,0,30,,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00209,CIP316353.026,37,17,9,1,10,10,5,2.0,7,7,3,2024-07-29,White ,7,7,9.0,Yellow,7,7.0,yellow,0,0,good vigor,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00210,CIP316349.066,23,18,9,1,10,10,5,1.0,7,5,0,,,6,5,7.0,Mix-Colour,5,7.0,yellow,0,0,"crinkled leaves, erect ,rough skin",Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00211,CIP316371.148,125,19,9,1,10,10,5,1.0,7,7,7,2024-07-08, Light purple,7,5,7.0,Red,5,7.0,light yellow,0,0,"good vigor, erect plants red striped flesh",Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00212,CIP316359.151,66,20,9,1,10,8,3,2.0,3,3,0,,,5,3,5.0,Light yellow,5,5.0,yellow,0,0,emerging plants,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00213,CIP316356.023,51,21,9,1,10,10,5,2.0,5,5,3,2025-07-20, Purple,6,5,7.0,Mix-Colour,5,7.0,creme,0,0,short plants,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00214,CIP316353.015,35,22,9,1,10,10,5,2.0,5,5,5,2024-07-08, Purple,6,7,7.0,Mix-Colour,5,7.0,yellow,0,0,fast  growth,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00215,CIP316367.075,117,23,9,1,10,10,3,1.0,7,3,0,,,5,3,7.0,Red,3,5.0,yellow,0,0,"late emerge, small plants",Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00216,CIP316367.103,122,24,9,1,10,9,3,2.0,5,3,3,2024-08-05, Purple,5,3,7.0,Mix-Colour,5,5.0,yellow,0,0,emerging plants,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00217,Unica,131,1,10,1,10,10,5,2.0,7,7,0,,,7,5,9.0,Red,5,7.0,light yellow,0,5,good vigor,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00218,CIP316349.121,27,2,10,1,10,10,5,1.0,5,5,3,2024-07-29, Light purple,6,5,7.0,Light red,7,7.0,light yellow,0,5,"crinkled leaves, slow growth",Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00219,CIP316363.033,88,3,10,1,10,8,3,2.0,7,3,0,,,4,1,3.0,Red,3,3.0,yellow,0,0,small emerging plants,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00220,CIP316376.014,121,4,10,1,10,10,5,2.0,7,7,5,2024-07-08,White ,7,7,7.0,Yellow,5,7.0,yellow,0,5,good vigor,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00221,CIP316376.020,101,5,10,1,10,10,5,1.0,5,5,3,2024-07-29,White ,6,5,5.0,Light red,5,5.0,yellow,0,0,erect plants,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00222,CIP316367.088,119,6,10,1,10,10,7,2.0,7,7,5,2024-07-01,White ,7,5,9.0,Light yellow,9,7.0,creme,0,0,fast growth,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00223,CIP316353.054,41,7,10,1,10,10,5,1.0,7,7,5,2025-07-20,White ,6,7,7.0,Yellow,7,7.0,creme,0,0,"erect,",Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00224,CIP316360.018,67,8,10,1,10,10,5,1.0,7,5,7,2024-07-08, Purple,7,5,5.0,Mix-Colour,5,5.0,yellow,0,0,erect plants,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00225,CIP316349.017,18,9,10,1,10,9,5,1.0,5,5,3,2024-07-29, Purple,6,5,7.0,Mix-Colour,5,7.0,yellow,0,0,"leaf roll, erect plants",Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00226,CIP316363.065,93,10,10,1,10,10,5,2.0,7,7,5,2025-07-20, Light purple,7,5,7.0,Mix-Colour,7,7.0,yellow,0,0,leaf roll holeheart,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00227,CIP316355.041,50,11,10,1,10,10,5,2.0,7,3,5,2025-07-20,White ,5,5,5.0,Yellow,5,5.0,yellow,0,5,severe leaf roll,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00228,CIP316376.020,114,12,10,1,10,10,5,1.0,5,5,5,2025-07-20,White ,6,5,7.0,Yellow,5,5.0,yellow,0,0,erect plants,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00229,CIP316363.092,96,13,10,1,10,10,5,2.0,7,9,5,2024-07-08,White ,9,5,7.0,Light yellow,5,9.0,creme,0,0,"perfect vigor, uniform",Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00230,CIP316349.070,24,14,10,1,10,9,3,2.0,5,3,0,,,5,3,5.0,Light yellow,5,7.0,light yellow,0,0,"weak plants,rough tuber skin",Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00231,CIP316371.148,108,15,10,1,10,9,5,1.0,7,7,7,2024-07-08, Light purple,7,5,9.0,Red,7,7.0,yellow,0,0,"good vigor, erect plants ,red striped flesh",Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00232,CIP316349.134,29,16,10,1,10,8,3,2.0,5,3,0,,,2,3,5.0,Red,3,5.0,yellow,30,10,"late blight, weak plants",Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00233,CIP316349.040,22,17,10,1,10,10,5,2.0,7,7,1,,,8,7,9.0,Yellow,7,7.0,yellow,0,5,excellent vigor,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00234,Sherekea,129,18,10,1,10,9,3,2.0,5,3,0,,,5,5,3.0,Red,1,1.0,light yellow,0,0,slow growth,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00235,CIP316371.148,6,19,10,1,10,10,5,1.0,7,5,3,2024-07-29, Light purple,6,5,7.0,Red,5,7.0,yellow,0,5,"erect plants ,red striped flesh",Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00236,CIP316353.059,43,20,10,1,10,8,3,2.0,7,3,0,,,4,3,3.0,Light yellow,3,5.0,yellow,0,0,small emerging plants,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00237,CIP316353.129,46,21,10,1,10,10,5,2.0,7,7,5,2025-07-20, Light purple,7,5,7.0,Mix-Colour,5,7.0,creme,0,0,,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00238,CIP316354.165,48,22,10,1,10,10,5,2.0,7,7,5,2025-07-20,White ,7,5,9.0,Yellow,7,9.0,yellow,0,0,nice tubers,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00239,CIP316358.029,55,23,10,1,10,10,5,3.0,7,7,1,,,7,7,7.0,Yellow,5,9.0,light yellow,10,50,good vigor,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00240,CIP316359.004,60,24,10,1,10,10,5,2.0,5,7,5,2025-07-20,White ,7,5,7.0,Light yellow,5,7.0,creme,0,0,good vigor,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00241,CIP316364.010,102,1,11,1,10,9,5,2.0,7,5,7,2024-07-08,White ,6,5,5.0,Yellow,5,5.0,yellow,0,0,,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00242,CIP316349.102,26,2,11,1,10,10,5,3.0,7,9,0,,,8,5,7.0,Mix-Colour,7,7.0,creme,0,0,"strong, vigorous, uniform",Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00243,CIP316349.141,31,3,11,1,10,10,5,2.0,7,7,5,2025-07-20, Light purple,6,5,3.0,Mix-Colour,7,7.0,creme,0,0,"crinkled leaves,rough skin",Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00244,CIP316353.015,35,4,11,1,10,10,7,1.0,7,5,5,2024-07-01, Purple,6,7,7.0,Mix-Colour,5,5.0,yellow,0,0,"fast growth, erect",Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00245,CIP316367.088,119,5,11,1,10,10,5,2.0,7,5,5,2024-07-08,White ,7,7,7.0,Yellow,7,7.0,creme,0,5,good vigor,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00246,CIP312079.010,11,6,11,1,10,1,3,2.0,5,5,0,,,2,5,7.0,Mix-Colour,5,7.0,light yellow,0,5,1 plant emerged,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00247,CIP312079.001,2,7,11,1,10,10,5,3.0,5,5,0,,,6,7,7.0,Yellow,5,7.0,yellow,10,20,late blight,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00248,CIP316362.019,83,8,11,1,10,10,3,2.0,5,3,0,,,5,3,5.0,Light yellow,5,5.0,light yellow,0,0,late emerge,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00249,CIP316359.026,61,9,11,1,10,10,5,1.0,7,7,7,2024-07-08,White ,7,7,7.0,Yellow,5,7.0,creme,0,5,"good vigor, erect ",Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00250,CIP316361.037,110,10,11,1,10,10,5,2.0,7,5,7,2024-07-08,White ,6,5,7.0,Yellow,5,7.0,dark yellow,0,5,crinkled leaves,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00251,CIP316360.145,68,11,11,1,10,9,5,2.0,5,5,3,2024-07-29,White ,6,5,5.0,Light yellow,5,5.0,yellow,0,0,,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00252,CIP316363.055,90,12,11,1,10,10,3,1.0,5,3,0,,,4,3,7.0,Mix-Colour,3,7.0,yellow,0,0,emerging plants,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00253,CIP316367.087,118,13,11,1,10,9,5,1.0,7,5,0,,,6,5,7.0,Yellow,5,7.0,yellow,0,0,erect plants,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00254,CIP316349.031,81,14,11,1,10,9,5,2.0,5,5,0,,,5,5,7.0,Mix-Colour,5,7.0,yellow,0,10,leaf roll virus,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00255,CIP316376.020,127,15,11,1,10,10,5,1.0,5,5,5,2024-07-08,White ,6,5,7.0,Yellow,5,7.0,yellow,0,0,"erect plants,pinkish eyes",Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00256,CIP316384.065,128,16,11,1,10,9,3,1.0,5,3,0,,,5,3,7.0,Yellow,5,5.0,yellow,0,0,erect plants,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00257,CIP316359.036,62,17,11,1,10,8,5,2.0,7,5,0,,,6,5,7.0,Mix-Colour,5,,yellow,0,0,lodging plants,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00258,CIP316367.075,117,18,11,1,10,8,3,1.0,5,3,0,,,4,3,7.0,Red,5,5.0,yellow,0,0,"erect, small emerging plants",Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00259,CIP316353.059,43,19,11,1,10,8,3,2.0,7,3,0,,,3,1,3.0,Light yellow,3,5.0,yellow,0,0,emerging plants,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00260,CIP316364.012,64,20,11,1,10,10,3,2.0,5,5,0,,,4,3,7.0,Yellow,5,7.0,yellow,0,0,,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00261,Shangi,130,21,11,1,10,10,7,2.0,7,5,5,2024-07-01, Purple,6,7,7.0,Light red,5,7.0,yellow,0,20,averege,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00262,Sagitta,132,22,11,1,10,8,3,2.0,5,5,0,,,5,5,7.0,Yellow,3,7.0,yellow,10,30,"small plants, slow growth",Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00263,CIP316363.028,86,23,11,1,10,9,3,2.0,7,3,0,,,4,3,7.0,Mix-Colour,5,5.0,white,0,0,late emerge,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
+KE25MOL-LBHT-IT01-00264,CIP316363.056,91,24,11,1,10,7,5,1.0,5,5,5,2025-07-20, Light purple,5,5,5.0,Mix-Colour,7,5.0,light yellow,0,0,erect plants,Molo,LBHT,KE25MOL-LBHT-IT01_table-Final
