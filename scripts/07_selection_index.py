@@ -55,6 +55,8 @@ print("Genotypes excluded from selection index (missing Total_Yield BLUP):")
 dropped
 # %%
 # %%
+# %% Refresh Token
+
 checks = ["Shangi", "Sherekea", "Unica", "Wanjiku", "Sagitta", "NARI002", "NARI004", "NARI005"]
 
 trait_wide["Type"] = np.where(trait_wide["geno"].isin(checks), "Commercial Check", "Elite Clone")
@@ -77,4 +79,21 @@ top20.to_csv(TABLES_DIR / "top20_selection_index.csv", index=False)
 
 print("Saved: selection_index_full.csv")
 print("Saved: top20_selection_index.csv")
+# %%
+# %%
+import matplotlib.pyplot as plt
+
+fig, axes = plt.subplots(1, 2, figsize=(14, 8))
+
+for ax, population in zip(axes, ["EA21", "LBHT"]):
+    df_pop = top20.loc[top20["Population"] == population].sort_values("Selection_Index")
+    colors = ["#D95F02" if t == "Commercial Check" else "#1B9E77" for t in df_pop["Type"]]
+
+    ax.barh(df_pop["geno"], df_pop["Selection_Index"], color=colors, edgecolor="black")
+    ax.set_title(f"{population} — Top 20 Selection Index")
+    ax.set_xlabel("Selection Index (weighted z-score)")
+
+plt.tight_layout()
+plt.savefig(FIGURES_DIR / "selection_index_top20.png", dpi=300, bbox_inches="tight")
+plt.show()
 # %%
