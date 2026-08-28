@@ -1,0 +1,179 @@
+---
+title: "Potato CET Multi-Environment Analysis"
+subtitle: "Combined Multi-Environment Evaluation of EA21 and LBHT Breeding Populations"
+author: "Mary A. Adungosi"
+date: today
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    theme: cosmo
+    code-fold: true
+    embed-resources: true
+    fig-cap-location: bottom
+execute:
+  echo: true
+  warning: false
+  message: false
+---
+
+```{r setup}
+library(knitr)
+project_dir <- path.expand("~/Potato_CET_MultiEnvironment")
+tables_dir  <- file.path(project_dir, "outputs", "tables")
+figures_dir <- file.path(project_dir, "outputs", "figures")
+```
+
+## Executive Summary
+
+This report presents a combined multi-environment analysis of the 2025 Potato Clonal Evaluation Trial (CET), covering six trial environments (Molo, Njoro, and Nairobi) across two breeding populations — EA21 and LBHT. The analysis pools data across environments to estimate genotype performance, genotype × environment interaction, and broad-sense heritability, moving beyond earlier single-environment assessments to a unified multi-environment model.
+
+**Key findings:**
+
+- Broad-sense heritability for total tuber yield, estimated via AI-REML across the pooled multi-environment model, was **0.445 for EA21** and **0.731 for LBHT**.
+- Genotype × environment interaction exceeded genotypic variance in EA21, indicating substantial rank-changing interaction across sites; the opposite pattern held for LBHT, where genotypic variance predominated.
+- A combined selection index (yield, marketable yield, late blight resistance, and overall visual impression) identified elite clones consistently outperforming commercial check varieties in both populations.
+- Dry matter content was recorded in only one trial (KE25NJO-EA21) and could not be jointly analyzed with yield — a structural data limitation flagged for future trial cycles.
+
+---
+
+## 1. Data and Methods Overview
+
+Phenotypic data were collected from six trials — three locations (Molo, Njoro, Nairobi) each hosting one EA21 and one LBHT trial — under a partially replicated (p-rep) design. Data cleaning and harmonization addressed a unit inconsistency at KE25NJO-EA21 (yield originally recorded as `total_weight_in_kgs` rather than the standard gram-based format used elsewhere) and removed placeholder/dummy genotype entries. The final analysis-ready dataset comprised 1,314 field plots across 189 genotypes.
+
+## 2. Experimental Design and Genotype Connectivity
+
+```{r geno-connectivity, fig.cap="Genotype testing incidence across the six trial environments."}
+include_graphics(file.path(figures_dir, "genotype_environment_incidence.png"))
+```
+
+Of the 189 genotypes evaluated, 147 were tested across all three environments within their population, providing strong connectivity for the combined multi-environment model. A small number of genotypes (18 in one environment, 20 in two) had reduced connectivity, while four commercial check varieties (Shangi, Unica, Wanjiku, Sagitta) were deliberately included across both population trial series at all three locations as shared reference points.
+
+```{r missingness, fig.cap="Missingness pattern across major agronomic traits."}
+include_graphics(file.path(figures_dir, "missingness_pattern_traits.png"))
+```
+
+Total tuber yield was 99% complete (1,301 of 1,314 plots); dry matter was recorded in only 172 plots, exclusively at KE25NJO-EA21.
+
+---
+
+## 3. Exploratory Data Analysis
+
+Prior to model fitting, exploratory analysis characterized yield patterns and genotype performance across the combined dataset.
+
+```{r eda-yield-dist, fig.cap="Yield distribution across the combined dataset."}
+include_graphics(file.path(figures_dir, "Figure1_Yield_Distribution.png"))
+```
+
+```{r eda-geno-mean, fig.cap="Genotype mean yield distribution."}
+include_graphics(file.path(figures_dir, "Figure2_Genotype_Mean_Distribution.png"))
+```
+
+```{r eda-top10, fig.cap="Top 10 genotypes by yield, combined dataset."}
+include_graphics(file.path(figures_dir, "Figure3_Top10_Genotypes.png"))
+```
+
+```{r eda-elite-heatmap, fig.cap="Elite genotype performance heatmap across environments."}
+include_graphics(file.path(figures_dir, "Figure4_Elite_Heatmap.png"))
+```
+
+```{r eda-elite-checks, fig.cap="Elite breeding clones compared against commercial check varieties."}
+include_graphics(file.path(figures_dir, "Figure5_Elite_vs_Checks.png"))
+```
+
+---
+
+## 4. Single-Environment Diagnostics
+
+Individual mixed models were fit per trial as an initial diagnostic step, prior to the combined analysis.
+
+```{r var-comp-trial}
+var_comp <- read.csv(file.path(tables_dir, "variance_components_per_trial.csv"))
+kable(var_comp, digits = 3, caption = "Per-trial variance components and heritability estimates.")
+```
+
+Heritability ranged from 0.331 (Njoro EA21) to 0.784 (Molo LBHT). Njoro EA21's comparatively low heritability likely reflects greater environmental heterogeneity, possibly related to the alternative yield-recording method required at that site. Notably, Molo LBHT combined the lowest mean yield of any trial with the highest heritability — heritability reflects the reliability of genotype ranking, not absolute yield level, so selection decisions from this trial remain trustworthy despite modest yields.
+
+---
+
+## 5. Combined Multi-Environment Model
+
+The definitive heritability estimates for this analysis come from a pooled AI-REML model (`sommer`), fit separately per population with genotype, genotype × environment, and residual variance components explicitly separated.
+
+```{r combined-variance}
+combined_var <- read.csv(file.path(tables_dir, "combined_met_variance_components.csv"))
+kable(combined_var, digits = 3, caption = "Combined multi-environment variance components and heritability.")
+```
+
+```{r combined-fig, fig.cap="Variance components of the pooled multi-environment mixed models."}
+include_graphics(file.path(figures_dir, "Figure1_VarianceComponents_Combined.png"))
+```
+
+EA21 showed genotype × environment variance (9,721,672) exceeding genotypic variance (6,921,523) — substantial rank-changing interaction across environments, yielding a moderate heritability of 0.445. LBHT showed the reverse pattern, with genotypic variance (4,714,566) nearly double the G×E variance (2,379,532), producing a higher, more reliable heritability of 0.731. This distinction matters directly for breeding strategy: EA21 selections may benefit from multi-environment testing before advancement, while LBHT's more consistent genotype performance across sites supports more confident single-cycle selection.
+
+---
+
+## 6. Multi-Trait Correlation Analysis
+
+```{r correlation-fig, fig.cap="Multi-trait BLUP correlations within each population."}
+include_graphics(file.path(figures_dir, "multitrait_blup_correlations.png"))
+```
+
+Total and marketable yield were strongly correlated in both populations (EA21: r = 0.92; LBHT: r = 0.997), with LBHT's near-perfect correlation indicating that harvested tubers in this population trend more uniformly toward marketable size classes. Overall visual impression correlated positively with yield in both populations, supporting its continued use as a rapid field-based selection cue.
+
+---
+
+## 7. Selection Index and Top-Performing Genotypes
+
+A composite selection index combined total yield (35%), marketable yield (35%), late blight severity at 90 days (−15%, penalizing susceptibility), and overall visual impression (15%), standardized within population.
+
+```{r selection-fig, fig.cap="Top 20 genotypes by selection index, per population. Green = elite breeding clone; orange = commercial check."}
+include_graphics(file.path(figures_dir, "selection_index_top20.png"))
+```
+
+```{r top20-table}
+top20 <- read.csv(file.path(tables_dir, "top20_selection_index.csv"))
+kable(head(top20[top20$Population == "EA21", c("geno","Type","Selection_Index")], 10),
+      digits = 3, caption = "Top 10 EA21 genotypes by selection index.")
+```
+
+```{r top20-lbht}
+kable(head(top20[top20$Population == "LBHT", c("geno","Type","Selection_Index")], 10),
+      digits = 3, caption = "Top 10 LBHT genotypes by selection index.")
+```
+
+In both populations, elite breeding clones occupied the majority of top-20 rankings, with commercial check varieties (Wanjiku, Unica) appearing but not dominating — confirming that the elite breeding material under evaluation is outperforming the checks it is intended to improve upon. Three genotypes with insufficient replication to estimate a reliable yield BLUP were excluded from the index (191 of 194 genotypes ranked).
+
+---
+
+## 8. Yield Distribution Across Environments
+
+```{r yield-dist-fig, fig.cap="Tuber yield distribution across locations, by population."}
+include_graphics(file.path(figures_dir, "Figure_YieldDistribution_ByLocation.png"))
+```
+
+```{r yield-summary}
+yield_summary <- read.csv(file.path(tables_dir, "yield_summary_by_trial.csv"))
+kable(yield_summary, digits = 2, caption = "Mean yield (kg/plot) by trial, location, and population.")
+```
+
+EA21 out-yielded LBHT at every location, consistent with EA21 representing more advanced-stage breeding material. Molo produced the highest mean yield for EA21 (10.9 kg) but the lowest for LBHT (3.3 kg) — the same environment behaving in opposite directions for the two populations, suggesting differential adaptation or site-specific pressures between the two trial series at Molo during this cycle.
+
+---
+
+## 9. Dry Matter — A Structural Limitation
+
+```{r dm-fig, fig.cap="Dry matter content distribution (Njoro EA21 only)."}
+include_graphics(file.path(figures_dir, "Figure_DryMatter_Distribution.png"))
+```
+
+Dry matter content was recorded exclusively in the KE25NJO-EA21 trial (172 of 1,314 plots; 13.1% of the combined dataset), reflecting a difference in data collection protocol at that site. Because this trial also required yield-unit harmonization, dry matter cannot be jointly analyzed with yield across environments — there is no plot where both were measured under directly comparable conditions elsewhere. This is a structural limitation of the current trial network, flagged as a priority for standardized recording in future trial cycles, rather than a data quality issue.
+
+---
+
+## 10. Conclusions and Recommendations
+
+1. **EA21** shows strong genotype × environment interaction — advancement decisions should rely on the pooled multi-environment model rather than any single trial, and candidates should be evaluated across multiple sites before final selection.
+2. **LBHT** shows high, consistent heritability across environments — single-site data can be used with greater confidence for this population.
+3. Elite clones in both populations outperform commercial checks on the combined selection index, supporting continued advancement of the top-ranked genotypes identified in Section 7.
+4. Standardizing yield recording units and dry matter measurement protocols across all trial sites is recommended to eliminate structural gaps in future analysis cycles.
